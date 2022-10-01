@@ -1,0 +1,187 @@
+---
+layout: master
+---
+
+<div>
+    <nav class="navbar navbar-expand-lg sticky-top bg-white">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="#">Linear Algebra</a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+                aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="#scrollspyAboutCourse">About Course</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#scrollspyInstructors">Instructors</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#scrollspyTAs">TAs</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#scrollspyMaterials">Materials</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#scrollspyAssignments">Assignments</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div data-bs-spy="scroll" data-bs-target="#navbar" data-bs-root-margin="0px 0px -40%" data-bs-smooth-scroll="true"
+        class="scrollspy-example p-3 rounded-2" tabindex="0">
+
+        <div class="row">
+            <div class="col-sm-9">
+                <h4 class="display-6" id="#scrollspyAboutCourse">CE282: Linear Algebra</h4>
+                <p class="card-text">
+                    <small class="text-muted">
+                        Fall 2022, Group 1;
+                        Computer Engineering Department,
+                        Sharif University of Technology,
+                        Tehran,
+                        Tehran Province,
+                        Iran
+                    </small>
+                </p>
+                <p class="lead">
+                    Classes: Sunday and Tuesday, 10:30-12:00, Ibn-Sina A12 <br>
+                    TA Classes: Sunday, 12:00-12:50, CE101 <br>
+                </p>
+
+                This course covers matrix theory and linear algebra, emphasizing topics useful in other disciplines.
+                Linear algebra is a branch of mathematics that studies systems of linear equations and the properties of
+                matrices. The concepts of linear algebra are extremely useful in image processing, computer vision, data
+                science, machine learning, bio-informatics, social networks, and neuroscience. Due to its broad range of
+                applications, linear algebra is one of the most widely taught subjects in college-level mathematics.
+                <br><br>
+
+                <a href="assets/materials/LA_Fall2022_Syllabus.pdf">Syllabus</a><br>
+
+            </div>
+            <div class="col-sm-3">
+                <div id="carouselExampleFade" class="carousel slide carousel-fade" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        {% for reference in site.data.references %}
+                        <div class="carousel-item {% if forloop.index == 1 %} active {% endif %}" data-bs-interval="4000">
+                            <img src="{{ reference.img }}" class="d-block w-100">
+                        </div>
+                        {% endfor %}
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade"
+                        data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade"
+                        data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Next</span>
+                    </button>
+                </div>
+            </div>
+        </div>
+
+        <h4 id="scrollspyInstructors">Instructors</h4>
+
+        <div class="row">
+            {% for instructor in site.data.instructors %}
+            <div class="col-sm-6">
+                <div class="card" style="margin-top: 10pt; margin-bottom: 10pt;">
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="{{ instructor.img }}" class="img-fluid rounded-start">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">{{ instructor.name }}</h5>
+                                <p class="card-text">
+                                    <small class="text-muted">
+                                        {{instructor.subtitle}}
+                                    </small>
+                                </p>
+                                <p class="card-text">
+                                    {{ instructor.detail }} <br>
+                                    <br>
+                                    <a href="mailto:{{ instructor.email }}">{{ instructor.email }}</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div> <br>
+
+        <h4 id="scrollspyTAs">Teaching Assistants</h4>
+
+        <div class="row">
+            {% for ta in site.data.TAs %}
+            <div class="col-sm-4">
+                <div class="card" style="margin-top: 10pt; margin-bottom: 10pt;">
+                    <div class="row g-0">
+                        <div class="col-md-4">
+                            <img src="{{ ta.img }}" class="img-fluid rounded-start">
+                        </div>
+                        <div class="col-md-8">
+                            <div class="card-body">
+                                <h5 class="card-title">{{ ta.name }}</h5>
+                                <p class="card-text"><small class="text-muted">{{ ta.subtitle }}</small></p>
+                                <p class="card-text">
+                                    <a href="mailto:{{ ta.email }}">{{ ta.email }}</a>
+                                </p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% endfor %}
+        </div> <br>
+
+        <h4 id="scrollspyMaterials">Materials</h4>
+
+        {% if site.data.materials %}
+        {% for material in site.data.materials reversed %}
+        <div class="card" style="margin-top: 10pt; margin-bottom: 10pt;">
+            <div class="card-body">
+                <h5 class="card-title">{{ material.title }}</h5>
+                <h6 class="card-subtitle mb-2 text-muted">{{ material.subtitle }}</h6>
+                <p class="card-text">
+                </p>
+                {% for asset in material.assets %}
+                <a href="{{ asset.link }}" class="card-link">{{ asset.file }}</a>
+
+                {% endfor %}
+            </div>
+        </div>
+        {% endfor %}
+        {% else %}
+        No material has been posted yet. <br> <br>
+        {% endif %} <br>
+
+        <h4 id="scrollspyAssignments">Assignments</h4>
+
+        {% if site.data.assignments %}
+        {% for assignment in site.data.assignments reversed %}
+        <div class="card" style="margin-top: 10pt; margin-bottom: 10pt;">
+            <div class="card-body">
+                <h5 class="card-title">{{ assignment.title }}</h5>
+                <h6 class="card-subtitle mb-2 text-muted">{{ assignment.subtitle }}</h6>
+                <p class="card-text">
+                    {{ assignment.paragraph }}
+                </p>
+                {% for asset in assignment.assets %}
+                <a href=" {{ asset.link }} " class="card-link">{{ asset.file }}</a>
+                {% endfor %}
+            </div>
+        </div>
+        {% endfor %}
+        {% else %}
+        No assignment has been posted yet. <br> <br>
+        {% endif %} <br>
+    </div>
+</div>

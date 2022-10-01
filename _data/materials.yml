@@ -1,0 +1,12 @@
+- title: Introduction
+  subtitle: Session 1, Shahrivar 27, 1401
+  assets:
+    - file: Slide
+      link: assets/materials/slides/LA_Fall2022_Introduction.pdf
+    - file: Syllabus
+      link: assets/materials/LA_Fall2022_Syllabus.pdf
+- title: Vectors
+  subtitle: Session 2, Shahrivar 29, 1401
+  assets:
+    - file: Slide
+      link: assets/materials/slides/LA_Fall2022_Vectors.pdf
