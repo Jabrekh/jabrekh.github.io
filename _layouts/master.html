@@ -9,11 +9,41 @@
         integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
 
     <style>
+        .ta-cards {
+            margin: 0 auto;
+            display: grid;
+            gap: 1rem;
+            grid-template-columns: repeat(2, 1fr);
+        }
+
         @media screen and (min-width: 1280px) {
             body {
                 max-width: 1280px;
                 margin: auto;
             }
+
+            .ta-cards {
+                grid-template-columns: repeat(3, 1fr);
+            }
+        }
+
+        @media screen and (min-width: 768px) {
+            body {
+                max-width: 1280px;
+                margin: auto;
+            }
+
+            .ta-cards {
+                grid-template-columns: repeat(3, 1fr);
+            }
+        }
+
+
+        .ta-card {}
+
+        .ta-email {
+            font-size: 10pt;
+            color: aqua;
         }
     </style>
 </head>
