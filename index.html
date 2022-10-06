@@ -41,12 +41,12 @@ layout: master
         </div>
     </nav>
 
-    <div class="tab-content p-3 rounded-2" id="links-tabContent">
+    <div class="tab-content p-2 rounded-2" id="links-tabContent">
         <div class="tab-pane fade show active" id="link-home" role="tabpanel" aria-labelledby="link-home-tab"
             tabindex="0">
             <div class="row">
                 <div class="col-sm-9">
-                    <h4 class="display-6" id="#scrollspyAboutCourse">CE282: Linear Algebra</h4>
+                    <h4 class="display-6">CE282: Linear Algebra</h4>
                     <p class="card-text">
                         <small class="text-muted">
                             Fall 2022, Group 1;
@@ -156,6 +156,9 @@ layout: master
             </div> <br>
         </div>
         <div class="tab-pane fade" id="link-profile" role="tabpanel" aria-labelledby="link-profile-tab" tabindex="0">
+            
+            <h4 class="display-6">Materials</h4>
+
             {% if site.data.materials %}
             {% for material in site.data.materials reversed %}
             <div class="card" style="margin-top: 10pt; margin-bottom: 10pt;">
@@ -176,6 +179,8 @@ layout: master
             {% endif %}
         </div>
         <div class="tab-pane fade" id="link-contact" role="tabpanel" aria-labelledby="link-contact-tab" tabindex="0">
+
+            <h4 class="display-6">Assignments</h4>
             {% if site.data.assignments %}
             {% for assignment in site.data.assignments reversed %}
             <div class="card" style="margin-top: 10pt; margin-bottom: 10pt;">
@@ -196,7 +201,25 @@ layout: master
             {% endif %}
         </div>
         <div class="tab-pane fade" id="link-disabled" role="tabpanel" aria-labelledby="link-disabled-tab" tabindex="0">
+            <h4 class="display-6">Previous Instructions</h4>
+            {% if site.data.previous %}
+            {% for material in site.data.previous reversed %}
+            <div class="card" style="margin-top: 10pt; margin-bottom: 10pt;">
+                <div class="card-body">
+                    <h5 class="card-title">{{ material.title }}</h5>
+                    <h6 class="card-subtitle mb-2 text-muted">{{ material.subtitle }}</h6>
+                    <p class="card-text">
+                    </p>
+                    {% for asset in material.assets %}
+                    <a href="{{ asset.link }}" class="card-link">{{ asset.file }}</a>
 
+                    {% endfor %}
+                </div>
+            </div>
+            {% endfor %}
+            {% else %}
+            No material has been posted yet. <br> <br>
+            {% endif %}
         </div>
     </div>
 </div>
