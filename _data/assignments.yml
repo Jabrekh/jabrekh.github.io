@@ -6,3 +6,5 @@
   assets:
     - file: Question Set
       link: assets/hw/LA_Fall22_HW1.pdf
+    - file: Test Cases
+      link: assets/hw/LA_Fall22_HW1_testcases.zip
