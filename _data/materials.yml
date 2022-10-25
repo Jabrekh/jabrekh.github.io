@@ -2,14 +2,14 @@
   subtitle: Session 1; Shahrivar 27, 1401
   assets:
     - file: Slide
-      link: assets/materials/slides/LA_Fall2022_Introduction.pdf
+      link: assets/materials/slides/LA_Fall2022_01_Introduction.pdf
     - file: Syllabus
       link: assets/materials/LA_Fall2022_Syllabus.pdf
 - title: Vectors
   subtitle: Session 2; Shahrivar 29, 1401
   assets:
     - file: Slide
-      link: assets/materials/slides/LA_Fall2022_Vectors.pdf
+      link: assets/materials/slides/LA_Fall2022_02_Vectors.pdf
 - title: Vectors Spaces
   subtitle: Session 3; Mehr 24, 1401
   assets:
@@ -20,3 +20,15 @@
   assets:
     - file: Video
       link: https://my.uupload.ir/dl/aGk0MxA4
+    - file: Slide
+      link: assets/materials/slides/LA_Fall2022_03_General_Vector_Space.pdf
+- title: Linear Equations
+  subtitle: Session 5; Aban 1, 1401
+  assets:
+    - file: Slide
+      link: assets/materials/slides/LA_Fall2022_04_Linear_Equations.pdf
+- title: Scaler-valued Functions
+  subtitle: Session 6; Aban 3, 1401
+  assets:
+    - file: Slide
+      link: assets/materials/slides/LA_Fall2022_05_Scalar-valued_Functions.pdf
