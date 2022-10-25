@@ -13,11 +13,15 @@
 - title: Vectors Spaces
   subtitle: Session 3; Mehr 24, 1401
   assets:
+    - file: Slide
+      link: assets/materials/slides/3-General_Vector_Space.pdf
     - file: Video
       link: https://my.uupload.ir/dl/mb4XB9yj
 - title: Vectors Spaces and Linear Equations
   subtitle: Session 4; Mehr 26, 1401
   assets:
+    - file: Slide
+      link: assets/materials/slides/4-Linear_Equations.pdf
     - file: Video
       link: https://my.uupload.ir/dl/aGk0MxA4
     - file: Slide
