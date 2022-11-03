@@ -32,3 +32,8 @@
   assets:
     - file: Slide
       link: assets/materials/slides/LA_Fall2022_05_Scalar-valued_Functions.pdf
+- title: Independence
+  subtitle: Session 7; Aban 8, 1401
+  assets:
+    - file: Slide
+      link: assets/materials/slides/LA_Fall2022_06_Independence.pdf
