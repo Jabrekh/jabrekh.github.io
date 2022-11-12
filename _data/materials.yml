@@ -37,3 +37,13 @@
   assets:
     - file: Slide
       link: assets/materials/slides/LA_Fall2022_06_Independence.pdf
+- title: Combinations
+  subtitle: Session 7; Aban 10, 1401
+  assets:
+    - file: Slide
+      link: assets/materials/slides/LA_Fall2022_07_Combinations.pdf
+- title: Euclidean Norm
+  subtitle: Session 7; Aban 17, 1401
+  assets:
+    - file: Slide
+      link: assets/materials/slides/LA_Fall2022_08_Euclidean_Norm.pdf
