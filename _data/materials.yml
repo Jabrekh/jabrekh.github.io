@@ -56,13 +56,12 @@
   assets:
     - file: Slide
       link: assets/materials/slides/LA_Fall2022_08_Euclidean_Norm.pdf
- - title: Norm Space
+- title: Norm Space
   subtitle: Session 11; Aban 24, 1401
   assets:
     - file: Slide
       link: assets/materials/slides/9-Norm_Space.pdf
-      
- - title: Inner Product  and Orthogonality
+- title: Inner Product  and Orthogonality
   subtitle: Session 12; Aban 29, 1401
   assets:
     - file: Slide
