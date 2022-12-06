@@ -18,6 +18,8 @@
   assets:
     - file: Question Set
       link: assets/hw/LA_Fall22_HW2.pdf
+    - file: Solution
+      link: assets/hw/LA_Fall22_HW2_Solution.pdf
 - title: Norm, Inner Product, Orthogonality, Matrices and Transformations
   subtitle: HW3
   paragraph: >2
