@@ -30,3 +30,11 @@
       link: assets/hw/LA_Fall22_HW3.pdf
     - file: Test Cases
       link: assets/hw/LA_Fall22_HW3_testcases.zip
+- title: Determinant, Inverse
+  subtitle: HW4
+  paragraph: >2
+    Theoretical Part (140 Points), Submission Deadline: 1401/10/06 23:59:59 with possibility of late submission until 1401/10/11 23:59:59<br>
+    Practical Part (30 Points), Submission Deadline: 1401/10/08 23:59:59 with possibility of late submission until 1401/10/13 23:59:59
+  assets:
+    - file: Question Set
+      link: assets/hw/LA_Fall22_HW4.pdf
