@@ -73,10 +73,14 @@
       link: assets/materials/slides/LA_Fall2022_11_Matrix-Properties.pdf
     - file: Video
       link: https://my.uupload.ir/dl/aGXjmy57
-- title: Matrix Transformation
-  subtitle: Session 14; Azar 13, 1401
+- title: Dimension and Rank
+  subtitle: Session 14; Azar 17, 1401
   assets:
     - file: Slide
-      link: assets/materials/slides/12-MatrixTransformation.pdf
-
+      link: assets/materials/slides/LA_Fall2022_13_Dimention-and-Rank.pdf
+- title: Inverse and Decomposition
+  subtitle: Session 15; Azar 22, 1401
+  assets:
+    - file: Slide
+      link: assets/materials/slides/LA_Fall2022_14_Inverse_and_Decomposition.pdf
       
