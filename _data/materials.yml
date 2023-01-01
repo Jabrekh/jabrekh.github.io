@@ -83,4 +83,13 @@
   assets:
     - file: Slide
       link: assets/materials/slides/LA_Fall2022_14_Inverse_and_Decomposition.pdf
-      
+- title: Determinant
+  subtitle: Session 16; Dey 1, 1401
+  assets:
+    - file: Slide
+      link: assets/materials/slides/LA_Fall2022_15_Determinant.pdf
+- title: Eigenvalues and Eigenvectors
+  subtitle: Session 17; Dey 9, 1401
+  assets:
+    - file: Slide
+      link: assets/materials/slides/LA_Fall2022_16_EigenValue_and_EigenVector.pdf
