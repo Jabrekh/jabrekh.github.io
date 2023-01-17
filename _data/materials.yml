@@ -1,44 +1,36 @@
 - title: Introduction
-  subtitle: Session 1; Shahrivar 27, 1401
   assets:
     - file: Slide
       link: assets/materials/slides/LA_Fall2022_01_Introduction.pdf
     - file: Syllabus
       link: assets/materials/LA_Fall2022_Syllabus.pdf
 - title: Vectors
-  subtitle: Session 2; Shahrivar 29, 1401
   assets:
     - file: Slide
       link: assets/materials/slides/LA_Fall2022_02_Vectors.pdf
 - title: Vectors Spaces
-  subtitle: Session 3; Mehr 24, 1401
   assets:
     - file: Slide
       link: assets/materials/slides/LA_Fall2022_03_General_Vector_Space.pdf
     - file: Video
       link: https://my.uupload.ir/dl/mb4XB9yj
 - title: Vectors Spaces and Linear Equations
-  subtitle: Session 4; Mehr 26, 1401
   assets:
     - file: Video
       link: https://my.uupload.ir/dl/aGk0MxA4
 - title: Linear Equations
-  subtitle: Session 5; Aban 1, 1401
   assets:
     - file: Slide
       link: assets/materials/slides/LA_Fall2022_04_Linear_Equations.pdf
 - title: Scaler-valued Functions
-  subtitle: Session 6; Aban 3, 1401
   assets:
     - file: Slide
       link: assets/materials/slides/LA_Fall2022_05_Scalar-valued_Functions.pdf
 - title: Independence
-  subtitle: Session 7; Aban 8, 1401
   assets:
     - file: Slide
       link: assets/materials/slides/LA_Fall2022_06_Independence.pdf
 - title: Combinations
-  subtitle: Session Offline; Aban 10, 1401
   assets:
     - file: Video-1
       link: https://drive.google.com/file/d/1ZPS0Zc4zC9hDzZxY49Hu7NDaR6I4vYvI/view?usp=sharing
@@ -52,51 +44,48 @@
     - file: Slide
       link: assets/materials/slides/LA_Fall2022_08_Euclidean_Norm.pdf
 - title: Euclidean Norm
-  subtitle: Session 10; Aban 22, 1401
   assets:
     - file: Slide
       link: assets/materials/slides/LA_Fall2022_08_Euclidean_Norm.pdf
 - title: Norm Space
-  subtitle: Session 11; Aban 24, 1401
   assets:
     - file: Slide
       link: assets/materials/slides/9-Norm_Space.pdf
 - title: Inner Product  and Orthogonality
-  subtitle: Session 12; Aban 29, 1401
   assets:
     - file: Slide
       link: assets/materials/slides/LA_Fall2022_10_Inner-Product-and-Orthogonality.pdf
 - title: Matrix Properties
-  subtitle: Session 13; Azar 1, 1401
   assets:
     - file: Slide
       link: assets/materials/slides/LA_Fall2022_11_Matrix-Properties.pdf
     - file: Video
       link: https://my.uupload.ir/dl/aGXjmy57
+- title: Transformations
+  assets:
+    - file: Slide
+      link: assets/materials/slides/12-MatrixTransformation.pdf
 - title: Dimension and Rank
-  subtitle: Session 14; Azar 17, 1401
   assets:
     - file: Slide
       link: assets/materials/slides/LA_Fall2022_13_Dimention-and-Rank.pdf
 - title: Inverse and Decomposition
-  subtitle: Session 15; Azar 22, 1401
   assets:
     - file: Slide
       link: assets/materials/slides/LA_Fall2022_14_Inverse_and_Decomposition.pdf
 - title: Determinant
-  subtitle: Session 16; Dey 1, 1401
   assets:
     - file: Slide
       link: assets/materials/slides/LA_Fall2022_15_Determinant.pdf
 - title: Eigenvalues and Eigenvectors
-  subtitle: Session 17; Dey 9, 1401
   assets:
     - file: Slide
-      link: assets/materials/slides/LA_Fall2022_16_EigenValue_and_EigenVector.pdf
+      link: assets/materials/slides/17-MatrixـFactorization.pdf
     - file: Video
       link: https://drive.google.com/file/d/1sDIh-eKBMYoqRormj8R6HPHXUa1mJ6-2/view?usp=sharing
 - title: Quad Form
-  subtitle: Online
   assets:
     - file: Video
       link: https://s5.uupload.ir/files/aryanahadinia/Linear Algebra/LA_Video_1.zip
+    - file: Slide
+      link: assets/materials/slides/18-SymmetricMatricesandQuadraticForms.pdf
