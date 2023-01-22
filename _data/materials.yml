@@ -89,7 +89,7 @@
 - title: Singular Value Decomposition
   assets:
     - file: Slide
-      link: assets/materials/slides/.pdf
+      link: assets/materials/slides/LA_Fall2022_19_Singular-Values-and-Singular-Vectors.pdf
 - title: Least Squares
   assets:
     - file: Slide
