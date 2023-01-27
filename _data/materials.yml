@@ -90,6 +90,8 @@
   assets:
     - file: Slide
       link: assets/materials/slides/LA_Fall2022_19_Singular-Values-and-Singular-Vectors.pdf
+    - file: Video
+      link: https://my.uupload.ir/dl/yoOoWXnX
 - title: Least Squares
   assets:
     - file: Slide
