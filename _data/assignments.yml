@@ -38,6 +38,8 @@
   assets:
     - file: Question Set
       link: assets/hw/LA_Fall22_HW4.pdf
+    - file: Solution
+      link: assets/hw/LA_Fall22_HW4_Solution.pdf
 - title: Eigenvalues and Eigenvectors
   subtitle: HW5
   paragraph: >1
@@ -45,3 +47,6 @@
   assets:
     - file: Question Set
       link: assets/hw/LA_Fall22_HW5.pdf
+    - file: Solution
+      link: assets/hw/LA_Fall22_HW5_Solution.pdf
+    
