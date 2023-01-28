@@ -58,6 +58,8 @@
   assets:
     - file: Slide
       link: assets/materials/slides/LA_Fall2022_12_Matrix-Transformation.pdf
+    - file: Video
+      link: https://my.uupload.ir/dl/yoOoa5vV
 - title: Dimension and Rank
   assets:
     - file: Slide
