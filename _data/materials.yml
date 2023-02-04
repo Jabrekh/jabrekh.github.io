@@ -4,117 +4,117 @@
       link: assets/materials/slides/LA_Fall2022_01_Introduction.pdf
     - file: Syllabus
       link: assets/materials/LA_Fall2022_Syllabus.pdf
-- title: Vectors
-  assets:
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_02_Vectors.pdf
-- title: General Vectors Spaces
-  assets:
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_03_General-Vector-Space.pdf
-    - file: Video
-      link: https://my.uupload.ir/dl/mb4XB9yj
-    - file: Video
-      link: https://my.uupload.ir/dl/aGk0MxA4 
-- title: Linear Equations
-  assets:
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_04_Linear-Equations.pdf
-- title: Scaler-valued Functions
-  assets:
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_05_Scalar-valued-Functions.pdf
-- title: Independence
-  assets:
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_06_Independence.pdf
-- title: Combinations
-  assets:
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_07_Combinations.pdf
-    - file: Video
-      link: https://drive.google.com/file/d/1ZPS0Zc4zC9hDzZxY49Hu7NDaR6I4vYvI/view?usp=sharing
-    - file: Video
-      link: https://drive.google.com/file/d/1JESyX1zy3SMXPWOOrkZ5NV088Ske-TTj/view?usp=sharing
-- title: Euclidean Norm
-  assets:
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_08_Euclidean-Norm.pdf
-- title: Norm Space
-  assets:
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_09_Norm-Space.pdf
-- title: Inner Product and Orthogonality
-  assets:
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_10_Inner-Product-and-Orthogonality.pdf
-- title: Matrix Properties
-  assets:
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_11_Matrix-Properties.pdf
-    - file: Video
-      link: https://my.uupload.ir/dl/aGXjmy57
-- title: Transformations
-  assets:
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_12_Matrix-Transformation.pdf
-    - file: Video
-      link: https://my.uupload.ir/dl/yoOoa5vV
-- title: Dimension and Rank
-  assets:
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_13_Dimension-and-Rank.pdf
-- title: Inverse and Decomposition
-  assets:
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_14_Inverse-and-Decomposition.pdf
-- title: Determinant
-  assets:
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_15_Determinant.pdf
-- title: Eigenvalues and Eigenvectors
-  assets:
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_16_EigenValue-and-EigenVector.pdf
-    - file: Video
-      link: https://drive.google.com/file/d/1sDIh-eKBMYoqRormj8R6HPHXUa1mJ6-2/view?usp=sharing
-- title: Matrix Factorization
-  assets:
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_17_Matrix-Factorization.pdf
-    - file: Voice
-      link: https://my.uupload.ir/dl/n2v2JdXn
-    - file: Voice
-      link: https://my.uupload.ir/dl/6E4EA4mm
-- title: Symmetric Matrices and Quadratic Forms 
-  assets:
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_18_Symmetric-Matrices-and-Quadratic-Forms.pdf
-    - file: Video
-      link: https://s5.uupload.ir/files/aryanahadinia/Linear Algebra/LA_Video_1.zip
-- title: Singular Value Decomposition
-  assets:
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_19_Singular-Values-and-Singular-Vectors.pdf
-    - file: Video
-      link: https://my.uupload.ir/dl/yoOoWXnX
-- title: Least Squares
-  assets:
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_20_Least-Squares.pdf
-    - file: Video
-      link: https://s5.uupload.ir/files/aryanahadinia/LeastSquared.zip
-- title: Matrix Inner Product, Norm, and Derivatives
-  assets:
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_21_Matrix_Inner_Product_and_Norm.pdf
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_22_Derivatives.pdf
-    - file: Video
-      link: https://s5.uupload.ir/files/aryanahadinia/MatrixNormsAndDerivatives.zip
-- title: PCA and Best Low Rank Matrix
-  assets:
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_23_PCA.pdf
-    - file: Video
-      link: https://s5.uupload.ir/files/aryanahadinia/PCA.zip
+# - title: Vectors
+#   assets:
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_02_Vectors.pdf
+# - title: General Vectors Spaces
+#   assets:
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_03_General-Vector-Space.pdf
+#     - file: Video
+#       link: https://my.uupload.ir/dl/mb4XB9yj
+#     - file: Video
+#       link: https://my.uupload.ir/dl/aGk0MxA4 
+# - title: Linear Equations
+#   assets:
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_04_Linear-Equations.pdf
+# - title: Scaler-valued Functions
+#   assets:
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_05_Scalar-valued-Functions.pdf
+# - title: Independence
+#   assets:
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_06_Independence.pdf
+# - title: Combinations
+#   assets:
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_07_Combinations.pdf
+#     - file: Video
+#       link: https://drive.google.com/file/d/1ZPS0Zc4zC9hDzZxY49Hu7NDaR6I4vYvI/view?usp=sharing
+#     - file: Video
+#       link: https://drive.google.com/file/d/1JESyX1zy3SMXPWOOrkZ5NV088Ske-TTj/view?usp=sharing
+# - title: Euclidean Norm
+#   assets:
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_08_Euclidean-Norm.pdf
+# - title: Norm Space
+#   assets:
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_09_Norm-Space.pdf
+# - title: Inner Product and Orthogonality
+#   assets:
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_10_Inner-Product-and-Orthogonality.pdf
+# - title: Matrix Properties
+#   assets:
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_11_Matrix-Properties.pdf
+#     - file: Video
+#       link: https://my.uupload.ir/dl/aGXjmy57
+# - title: Transformations
+#   assets:
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_12_Matrix-Transformation.pdf
+#     - file: Video
+#       link: https://my.uupload.ir/dl/yoOoa5vV
+# - title: Dimension and Rank
+#   assets:
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_13_Dimension-and-Rank.pdf
+# - title: Inverse and Decomposition
+#   assets:
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_14_Inverse-and-Decomposition.pdf
+# - title: Determinant
+#   assets:
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_15_Determinant.pdf
+# - title: Eigenvalues and Eigenvectors
+#   assets:
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_16_EigenValue-and-EigenVector.pdf
+#     - file: Video
+#       link: https://drive.google.com/file/d/1sDIh-eKBMYoqRormj8R6HPHXUa1mJ6-2/view?usp=sharing
+# - title: Matrix Factorization
+#   assets:
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_17_Matrix-Factorization.pdf
+#     - file: Voice
+#       link: https://my.uupload.ir/dl/n2v2JdXn
+#     - file: Voice
+#       link: https://my.uupload.ir/dl/6E4EA4mm
+# - title: Symmetric Matrices and Quadratic Forms 
+#   assets:
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_18_Symmetric-Matrices-and-Quadratic-Forms.pdf
+#     - file: Video
+#       link: https://s5.uupload.ir/files/aryanahadinia/Linear Algebra/LA_Video_1.zip
+# - title: Singular Value Decomposition
+#   assets:
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_19_Singular-Values-and-Singular-Vectors.pdf
+#     - file: Video
+#       link: https://my.uupload.ir/dl/yoOoWXnX
+# - title: Least Squares
+#   assets:
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_20_Least-Squares.pdf
+#     - file: Video
+#       link: https://s5.uupload.ir/files/aryanahadinia/LeastSquared.zip
+# - title: Matrix Inner Product, Norm, and Derivatives
+#   assets:
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_21_Matrix_Inner_Product_and_Norm.pdf
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_22_Derivatives.pdf
+#     - file: Video
+#       link: https://s5.uupload.ir/files/aryanahadinia/MatrixNormsAndDerivatives.zip
+# - title: PCA and Best Low Rank Matrix
+#   assets:
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_23_PCA.pdf
+#     - file: Video
+#       link: https://s5.uupload.ir/files/aryanahadinia/PCA.zip

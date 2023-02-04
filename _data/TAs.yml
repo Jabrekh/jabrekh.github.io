@@ -2,18 +2,6 @@
   subtitle: Lead TA
   email: aryan.ahadinia@sharif.edu
   img: assets/images/TAs/ahadinia2.jpg
-- name: Mehran Hosseinzadeh
-  email: mehran.hosseinzadeh1@gmail.com
-  img: assets/images/TAs/hosseinzadeh.jpg
-- name: MohammadMahdi Maheri
-  email: mohamadmaheri@yahoo.com
-  img: assets/images/TAs/maheri.png
-- name: Amir Pourmand
-  email: pourmand1376@gmail.com
-  img: assets/images/TAs/pourmand.jpeg
-- name: Amin Saeidi
-  email: amin.saeidi.1997@gmail.com
-  img: assets/images/TAs/saeedi.jpg
 - name: Amirhossein Abedi
   email: amirhoseinabedi80@gmail.com
   img: assets/images/TAs/abedi.jpg
@@ -23,12 +11,6 @@
 - name: MohammadMahdi Abootorabi
   email: mahdi.abootorabi2@gmail.com
   img: assets/images/TAs/aboots.jpg
-- name: Kahbod Aeini
-  email: kahbodaeini@gmail.com
-  img: assets/images/TAs/aeini.jpg
-- name: MohammadHossein AliHosseini
-  email: alihosseini@ce.sharif.edu
-  img: assets/images/TAs/alihosseini.jpg
 - name: Mahdi Alizadeh
   email: alizademhdi@gmail.com
   img: assets/images/TAs/alizadeh.jpg
@@ -41,57 +23,36 @@
 - name: Amirhossein Barati 
   email: amirbar2014@gmail.com
   img: assets/images/TAs/barati.jpg
-- name: MohammadParham Bateni
-  email: mp.bateni@gmail.com
-  img: assets/images/TAs/bateni.jpg
 - name: Matin Daghyani
   email: matin.daghyani@yahoo.com
   img: assets/images/TAs/daghyani.jpeg
 - name: Bahar DibaeiNia
   email: bahardib5@gmail.com
   img: assets/images/TAs/dibaei.jpg
-- name: Pouya Esmaili
-  email: esmaili.1380@gmail.com
-  img: assets/images/TAs/esmaeili.jpg
 - name: Neda Fallah
   email: nedafallah1379@gmail.com
   img: assets/images/TAs/fallah.jpg
 - name: Hossein Goli
   email: hosseingoli8899@gmail.com
   img: assets/images/TAs/goli.jpg
-- name: Ali Hosseini
-  email: sahosseini.uni@gmail.com
-  img: assets/images/TAs/hosseini.jpg
 - name: AmirMohammad Izadi
   email: amirmmdizady@gmail.com
   img: assets/images/TAs/izadi.jpg
 - name: Mohammad Jafari
   email: mamad.jafari91@gmail.com
   img: assets/images/TAs/jafari.jpg
-- name: Soroush Jahanzad
-  email: SoroushJahanzad@gmail.com
-  img: assets/images/TAs/jahanzad.jpg
-- name: Arya Jalali
-  email: arya.jalali1379@yahoo.com
-  img: assets/images/TAs/jalali.jpg
 - name: Sayeh Jarollahi
   email: sjarollahi@gmail.com
   img: assets/images/TAs/jarollahi.jpg
 - name: Benyamin Maleki
   email: benyaminmaleki81@gmail.com
   img: assets/images/TAs/maleki.jpg
-- name: Amin Meghrazi
-  email: aminmeghrazi7899@gmail.com
-  img: assets/images/TAs/meghrazi.jpg
 - name: Mehrad Minalloo
   email: milanloomehrad@gmail.com
   img: assets/images/TAs/milanloo.jpg
 - name: Bardia Mohammadi
   email: bardia.mohammadi@gmail.com
   img: assets/images/TAs/mohammadi.jpg
-- name: Shayan Mohammadizadeh
-  email: shayan80sama@gmail.com
-  img: assets/images/TAs/shayan.jpg
 - name: Mohammad Moshtaghi
   email: mhmmoshtaghi@gmail.com
   img: assets/images/TAs/moshtaghi.jpg
@@ -101,9 +62,6 @@
 - name: Rouzbeh Pirayadi
   email: rouzbehpirayadi@gmail.com
   img: assets/images/TAs/pirayadi.jpg
-- name: Ainaz Rafiei
-  email: ainazrsh2016@gmail.com
-  img: assets/images/TAs/rafiee.png
 - name: Ali RahimiAkbar
   email: alirahimyakbar@gmail.com
   img: assets/images/TAs/rahimi.jpg
@@ -113,21 +71,18 @@
 - name: Ali Razghandi
   email: a.razghandi11@gmail.com
   img: assets/images/TAs/razghandi.jpg
-- name: Erfan Sadraiye
-  email: sadraiyeh.e2002@gmail.com
-  img: assets/images/TAs/sadrayie.jpg
-- name: Armin Saghafian
-  email: armin.saghafian@gmail.com
-  img: assets/images/TAs/saghafian.jpg
 - name: Amirreza Soleimanbeigi
   email: amirsoli80@gmail.com
   img: assets/images/TAs/soleimanbeigi.jpg
-- name: Mehrshad Taziki
-  email: mehrshad00taziki@gmail.com
-  img: assets/images/TAs/taziki.jpg
 - name: MohammadMahdi Vahedi
   email: m.m.vahedi13800@gmail.com
   img: assets/images/TAs/vahedi.jpg
-- name: Arian Zamani
-  email: arian_z@rocketmail.com
-  img: assets/images/TAs/zamani.jpg
+- name: Ilya Mahrooghi
+  email: ilyamahrooghimath@gmail.com
+  img: assets/images/TAs/mahroghi.jpg
+- name: ali_sal1381@yahoo.com
+  email: Ali Salesi
+  img: assets/images/TAs/salesi.jpg
+- name: AmirReza Azari
+  email: amirrezaazari1381@gmail.com
+  img: assets/images/TAs/azari.jpg

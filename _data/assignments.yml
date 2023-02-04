@@ -1,52 +1,12 @@
-- title: Vectors and Linear Equations
-  subtitle: HW1
-  paragraph: >2
-    Theoretical Part (140 Points), Submission Deadline: 1401/08/09 23:59:59 with possibility of late submission until 1401/08/14 23:59:59<br>
-    Practical Part (30 Points), Submission Deadline: 1401/08/09 23:59:59 with possibility of late submission until 1401/08/14 23:59:59
-  assets:
-    - file: Question Set
-      link: assets/hw/LA_Fall22_HW1.pdf
-    - file: Test Cases
-      link: assets/hw/LA_Fall22_HW1_testcases.zip
-    - file: Solution
-      link: assets/hw/LA_Fall22_HW1_Solution.pdf
-- title: Combinations and Independence
-  subtitle: HW2
-  paragraph: >2
-    Theoretical Part (140 Points), Submission Deadline: 1401/08/28 23:59:59 with possibility of late submission until 1401/09/03 23:59:59<br>
-    Practical Part (30 Points), Submission Deadline: 1401/08/30 23:59:59 with possibility of late submission until 1401/09/05 23:59:59
-  assets:
-    - file: Question Set
-      link: assets/hw/LA_Fall22_HW2.pdf
-    - file: Solution
-      link: assets/hw/LA_Fall22_HW2_Solution.pdf
-- title: Norm, Inner Product, Orthogonality, Matrices and Transformations
-  subtitle: HW3
-  paragraph: >2
-    Theoretical Part (140 Points), Submission Deadline: 1401/09/19 23:59:59 with possibility of late submission until 1401/09/24 23:59:59<br>
-    Practical Part (30 Points), Submission Deadline: 1401/09/21 23:59:59 with possibility of late submission until 1401/09/26 23:59:59
-  assets:
-    - file: Question Set
-      link: assets/hw/LA_Fall22_HW3.pdf
-    - file: Test Cases
-      link: assets/hw/LA_Fall22_HW3_testcases.zip
-- title: Determinant, Inverse
-  subtitle: HW4
-  paragraph: >2
-    Theoretical Part (140 Points), Submission Deadline: 1401/10/06 23:59:59 with possibility of late submission until 1401/10/11 23:59:59<br>
-    Practical Part (30 Points), Submission Deadline: 1401/10/08 23:59:59 with possibility of late submission until 1401/10/13 23:59:59
-  assets:
-    - file: Question Set
-      link: assets/hw/LA_Fall22_HW4.pdf
-    - file: Solution
-      link: assets/hw/LA_Fall22_HW4_Solution.pdf
-- title: Eigenvalues and Eigenvectors
-  subtitle: HW5
-  paragraph: >1
-    Theoretical Part (140 Points), Submission Deadline: 1401/10/30 23:59:59 with possibility of late submission until 1401/11/05 23:59:59
-  assets:
-    - file: Question Set
-      link: assets/hw/LA_Fall22_HW5.pdf
-    - file: Solution
-      link: assets/hw/LA_Fall22_HW5_Solution.pdf
-    
+# - title: Vectors and Linear Equations
+#   subtitle: HW1
+#   paragraph: >2
+#     Theoretical Part (140 Points), Submission Deadline: 1401/08/09 23:59:59 with possibility of late submission until 1401/08/14 23:59:59<br>
+#     Practical Part (30 Points), Submission Deadline: 1401/08/09 23:59:59 with possibility of late submission until 1401/08/14 23:59:59
+#   assets:
+#     - file: Question Set
+#       link: assets/hw/LA_Fall22_HW1.pdf
+#     - file: Test Cases
+#       link: assets/hw/LA_Fall22_HW1_testcases.zip
+#     - file: Solution
+#       link: assets/hw/LA_Fall22_HW1_Solution.pdf
