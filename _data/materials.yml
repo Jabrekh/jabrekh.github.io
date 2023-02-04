@@ -1,9 +1,9 @@
-- title: Introduction
-  assets:
-    - file: Slide
-      link: assets/materials/slides/LA_Fall2022_01_Introduction.pdf
-    - file: Syllabus
-      link: assets/materials/LA_Fall2022_Syllabus.pdf
+# - title: Introduction
+#   assets:
+#     - file: Slide
+#       link: assets/materials/slides/LA_Fall2022_01_Introduction.pdf
+#     - file: Syllabus
+#       link: assets/materials/LA_Fall2022_Syllabus.pdf
 # - title: Vectors
 #   assets:
 #     - file: Slide
