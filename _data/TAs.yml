@@ -1,7 +1,15 @@
 - name: Aryan Ahadinia
   subtitle: Lead TA
   email: aryan.ahadinia@sharif.edu
-  img: assets/images/TAs/ahadinia2.jpg
+  img: assets/images/TAs/aryan.jpg
+- name: Armin Behnamnia
+  subtitle: PhD Student
+  email: armin.behnamnia@sharif.edu
+  img: assets/images/TAs/armin.jpg
+- name: Zahra Dehghanian
+  subtitle: PhD Student
+  email: zahra.dehghanian97@sharif.edu
+  img: assets/images/TAs/zahra.jpg
 - name: Amirhossein Abedi
   email: amirhoseinabedi80@gmail.com
   img: assets/images/TAs/abedi.jpg
