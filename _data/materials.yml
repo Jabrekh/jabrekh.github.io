@@ -1,10 +1,12 @@
 - title: Introduction
+  subtitle: Bahman 16, 1401
   assets:
     - file: Slide
       link: assets/materials/LA_Spring2023_L01_Introduction.pdf
     - file: Syllabus
       link: assets/materials/CE282_1_Spring23_Syllabus_File.pdf
 - title: Vectors
+  subtitle: Bahman 18, 1401
   assets:
     - file: Slide
       link: assets/materials/LA_Spring2023_L02_Vectors.pdf
