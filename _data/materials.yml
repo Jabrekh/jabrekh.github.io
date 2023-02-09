@@ -1,3 +1,23 @@
+- title: Norm Space
+  subtitle: 
+  assets:
+    - file: Slide
+      link: assets/materials/LA_Spring2023_L09-NormSpace.pdf
+- title: Euclidian Norm and Inequalities
+  subtitle: 
+  assets:
+    - file: Slide
+      link: assets/materials/LA_Spring2023_L08-EuclidianNormInequalities.pdf
+- title: Inner Product and Orthogonality
+  subtitle: 
+  assets:
+    - file: Slide
+      link: assets/materials/LA_Spring2023_L07-InnerProductOrthogonality.pdf
+- title: Independence (Linear and Affine)
+  subtitle: 
+  assets:
+    - file: Slide
+      link: assets/materials/LA_Spring2023_L06-Independence.pdf
 - title: Scalar-valued Functions (Linear and Affine)
   subtitle: 
   assets:
