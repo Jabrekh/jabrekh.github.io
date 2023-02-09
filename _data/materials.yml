@@ -10,3 +10,18 @@
   assets:
     - file: Slide
       link: assets/materials/LA_Spring2023_L02_Vectors.pdf
+- title: Vector Space
+  subtitle: 
+  assets:
+    - file: Slide
+      link: assets/materials/LA_Spring2023_L03_VectorSpace.pdf
+- title: Linear Equations
+  subtitle: 
+  assets:
+    - file: Slide
+      link: assets/materials/LA_Spring2023_L04-LinearEquations.pdf
+- title: Scalar-valued Functions (Linear and Affine)
+  subtitle: 
+  assets:
+    - file: Slide
+      link: assets/materials/LA_Spring2023_L05-ScalarvaluedFunctions.pdf
