@@ -19,17 +19,17 @@
     - file: Slide
       link: assets/materials/LA_Spring2023_L06-Independence.pdf
 - title: Scalar-valued Functions (Linear and Affine)
-  subtitle: 
+  subtitle: Bahman 30,1401
   assets:
     - file: Slide
       link: assets/materials/LA_Spring2023_L05-ScalarvaluedFunctions.pdf
 - title: Linear Equations
-  subtitle: 
+  subtitle: Bahman 30, 1401
   assets:
     - file: Slide
       link: assets/materials/LA_Spring2023_L04-LinearEquations.pdf
 - title: General Vector Space
-  subtitle: 
+  subtitle: Bahman 23&25, 1401
   assets:
     - file: Slide
       link: assets/materials/LA_Spring2023_L03_VectorSpace.pdf
