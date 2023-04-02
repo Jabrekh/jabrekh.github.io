@@ -1,8 +1,60 @@
+- title: Decomposition and Matrix Factorization
+  subtitle: 
+  assets:
+    - file: Slide
+      link: assets/materials/LA_Spring2023_L19-SymmetricMatricesQuaraticForm.pdf
+- title: Decomposition and Matrix Factorization
+  subtitle: 
+  assets:
+    - file: Slide
+      link: assets/materials/LA_Spring2023_L18-MatrixFactorization.pdf
+- title: Eigenvalue and Eigenvector
+  subtitle: 
+  assets:
+    - file: Slide
+      link: assets/materials/LA_Spring2023_L17-EigenvalueEigenvector.pdf
+- title: Deterninant
+  subtitle: 
+  assets:
+    - file: Slide
+      link: assets/materials/LA_Spring2023_L16-Deterninant.pdf
+- title: QR Decomposition and Pseudo inverse
+  subtitle: 
+  assets:
+    - file: Slide
+      link: assets/materials/LA_Spring2023_L15-QRInverse.pdf
+- title: Inverse
+  subtitle: 
+  assets:
+    - file: Slide
+      link: assets/materials/LA_Spring2023_L14-Inverse.pdf
+- title: Dimension and Rank
+  subtitle: 
+  assets:
+    - file: Slide
+      link: assets/materials/LA_Spring2023_L13-DimensionRank.pdf
+- title: Surjection and Injection - Change of Basis
+  subtitle: 
+  assets:
+    - file: Slide
+      link: assets/materials/LA_Spring2023_L12-SurjectionInjectionBasis.pdf
+- title: Transformations
+  subtitle: 
+  assets:
+    - file: Slide
+      link: assets/materials/LA_Spring2023_L11-Transformations.pdf
+- title: Matrix Properties
+  subtitle: 
+  assets:
+    - file: Slide
+      link: assets/materials/LA_Spring2023_L10-MatrixProperties.pdf
 - title: Norm Space
   subtitle: 
   assets:
     - file: Slide
       link: assets/materials/LA_Spring2023_L09-NormSpace.pdf
+    - file: Video
+      link: assets/materials/NormSpacevideo.mp4
 - title: Euclidian Norm and Inequalities
   subtitle: 
   assets:
