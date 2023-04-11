@@ -43,6 +43,8 @@
   assets:
     - file: Slide
       link: assets/materials/LA_Spring2023_L13-DimensionRank.pdf
+    - file: Proves
+      link: assets/materials/rpY1hB-subspaces_merged.pdf
 - title: Surjection and Injection - Change of Basis
   subtitle: 
   assets:
