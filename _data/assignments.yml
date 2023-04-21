@@ -8,6 +8,8 @@
       link: assets/materials/CE282_1_Spring23_HW1.pdf
     - file: Sample Test Cases
       link: assets/materials/CE282_1_Spring23_HW1_Test_Cases.zip
+    - file: Solution
+      link: assets/materials/CE282_1_Spring23_HW1_Sol.pdf
 - title: Independence, Inner Product, and Norm
   subtitle: HW2
   paragraph: >2
@@ -16,6 +18,8 @@
   assets:
     - file: Question Set
       link: assets/materials/CE282_1_Spring23_HW2.pdf
+    - file: Solution
+      link: assets/materials/CE282_1_Spring23_HW2_Sol.pdf
 - title: Matrices
   subtitle: HW3
   paragraph: >2
