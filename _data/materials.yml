@@ -50,6 +50,8 @@
   assets:
     - file: Slide
       link: assets/materials/LA_Spring2023_L12-SurjectionInjectionBasis.pdf
+    - file: Video
+      link: assets/materials/ChangeoFBasis-Video.rar
 - title: Transformations
   subtitle: 
   assets:
