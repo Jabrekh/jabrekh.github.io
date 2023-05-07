@@ -59,6 +59,8 @@
   assets:
     - file: Slide
       link: assets/materials/LA_Spring2023_L11-Transformations.pdf
+    - file: Video
+      link: assets/materials/Transformations-Video.rar
 - title: Matrix Properties
   subtitle: 
   assets:
