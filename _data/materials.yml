@@ -23,6 +23,8 @@
   assets:
     - file: Slide
       link: assets/materials/LA_Spring2023_L17-EigenvalueEigenvector.pdf
+    - file: Theorem Proofs
+      link: assets/materials/17-supp.pdf
 - title: Deterninant
   subtitle: 
   assets:
