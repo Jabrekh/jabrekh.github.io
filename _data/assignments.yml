@@ -28,3 +28,11 @@
   assets:
     - file: Questions and Solution
       link: assets/materials/CE282_1_Spring23_HW3.pdf
+- title: Eigenvalues and Eigenvectors
+  subtitle: HW4
+  paragraph: >2
+    Theoretical Part (140 Points), Submission Deadline: 1402/03/10 23:59:59 with possibility of late submission until 1402/03/15 23:59:59<br>
+    Practical Part (32 Points), Submission Deadline: 1402/03/12 23:59:59 with possibility of late submission until 1402/03/17 23:59:59
+  assets:
+    - file: Questions and Solution
+      link: assets/materials/CE282_1_Spring23_HW4.pdf
