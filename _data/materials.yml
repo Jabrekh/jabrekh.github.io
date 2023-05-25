@@ -1,3 +1,18 @@
+- title: Best Low Rank Matrix and PCA
+  subtitle: 
+  assets:
+    - file: Slide
+      link: assets/materials/LA_Spring2023_L24-BestLowRankMatrixPCA.pdf
+- title: Tensor Derivatives
+  subtitle: 
+  assets:
+    - file: Slide
+      link: assets/materials/LA_Spring2023_L23-TensorDerivatives.pdf
+- title: Matrix Inner Product and Norm
+  subtitle: 
+  assets:
+    - file: Slide
+      link: assets/materials/LA_Spring2023_L22-MatrixInnerProductNorm.pdf
 - title: Least Square
   subtitle: 
   assets:
@@ -8,16 +23,22 @@
   assets:
     - file: Slide
       link: assets/materials/LA_Spring2023_L20-SVD.pdf
+    - file: Theorem Proofs
+      link: assets/materials/20-supp.pdf
 - title: Symmetric Matrices and Quaratic Form
   subtitle: 
   assets:
     - file: Slide
       link: assets/materials/LA_Spring2023_L19-SymmetricMatricesQuaraticForm.pdf
+    - file: Theorem Proofs
+      link: assets/materials/19-supp.pdf
 - title: Decomposition and Matrix Factorization
   subtitle: 
   assets:
     - file: Slide
       link: assets/materials/LA_Spring2023_L18-MatrixFactorization.pdf
+    - file: Theorem Proofs
+      link: assets/materials/18-supp.pdf
 - title: Eigenvalue and Eigenvector
   subtitle: 
   assets:
@@ -25,7 +46,7 @@
       link: assets/materials/LA_Spring2023_L17-EigenvalueEigenvector.pdf
     - file: Theorem Proofs
       link: assets/materials/17-supp.pdf
-- title: Deterninant
+- title: Determinant
   subtitle: 
   assets:
     - file: Slide
