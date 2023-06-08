@@ -1,8 +1,10 @@
-- title: Best Low Rank Matrix and PCA
+- title: Best Low Rank Matrix and PCA (Optional)
   subtitle: 
   assets:
     - file: Slide
       link: assets/materials/LA_Spring2023_L24-BestLowRankMatrixPCA.pdf
+    - file: Video
+      link: assets/materials/PCA.rar
 - title: Tensor Derivatives
   subtitle: 
   assets:
@@ -16,8 +18,10 @@
 - title: Least Square
   subtitle: 
   assets:
-    - file: Slide
+    - file: Slide1
       link: assets/materials/LA_Spring2023_L21-LeastSquare.pdf
+    - file: Slide2
+      link: assets/materials/LA_Spring2023_L22-LeastsquaresRegression.pdf
 - title: Singualr Value, Singular Vector, and SVD
   subtitle: 
   assets:
