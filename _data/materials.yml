@@ -5,12 +5,11 @@
       link: assets/materials/LA_Spring2023_L24-BestLowRankMatrixPCA.pdf
     - file: Video
       link: https://drive.google.com/file/d/1Wape9vsAutjEOpGrg4Ve8E0_df4U8HQU/view?usp=sharing
-      
 - title: Tensor Derivatives
   subtitle: 
   assets:
     - file: Slide
-      link: assets/materials/LA_Spring2023_L23-TensorDerivatives.pdf
+      link: assets/materials/LA_Spring2023_L23-TensorDerivatives.rar
 - title: Matrix Inner Product and Norm
   subtitle: 
   assets:
