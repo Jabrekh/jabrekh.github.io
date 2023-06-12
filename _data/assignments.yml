@@ -37,7 +37,7 @@
     - file: Questions
       link: assets/materials/CE282_1_Spring23_HW4.pdf
     - file: Solution
-      link: CE282_1_Spring23_HW4_SOL.pdf
+      link: assets/materials/CE282_1_Spring23_HW4_SOL.pdf
 - title: Singular Value, Decomposition, and Derivatives
   subtitle: HW5
   paragraph: >2
