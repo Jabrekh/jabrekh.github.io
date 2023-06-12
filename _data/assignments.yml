@@ -34,8 +34,10 @@
     Theoretical Part (140 Points), Submission Deadline: 1402/03/10 23:59:59 with possibility of late submission until 1402/03/15 23:59:59<br>
     Practical Part (32 Points), Submission Deadline: 1402/03/12 23:59:59 with possibility of late submission until 1402/03/17 23:59:59
   assets:
-    - file: Questions and Solution
+    - file: Questions
       link: assets/materials/CE282_1_Spring23_HW4.pdf
+    - file: Solution
+      link: CE282_1_Spring23_HW4_SOL.pdf
 - title: Singular Value, Decomposition, and Derivatives
   subtitle: HW5
   paragraph: >2
