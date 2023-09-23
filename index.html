@@ -208,7 +208,7 @@ layout: master
             {% if site.data.previous %}
             {% for instruction in site.data.previous reversed %}
             <h1>{{instruction.semester}}</h1>
-            {% for material in instruction %}
+            {% for material in instruction.problems %}
             <div class="card" style="margin-top: 10pt; margin-bottom: 10pt;">
                 <div class="card-body">
                     <h5 class="card-title">{{ material.title }}</h5>
