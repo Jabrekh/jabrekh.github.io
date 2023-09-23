@@ -59,7 +59,9 @@ layout: master
                     </p>
                     <p class="lead">
                         Classes: {{site.data.description.classes}} <br>
-                        TA Classes:  <br>
+                        {%- if site.data.description.ta_classes -%}
+                        TA Classes: {{site.data.description.ta_classes}}<br>
+                        {%- endif -%}
                     </p>
 
                     This course covers matrix theory and linear algebra, emphasizing topics useful in other disciplines.
