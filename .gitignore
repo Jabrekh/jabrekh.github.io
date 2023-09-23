@@ -11,3 +11,4 @@ _site/
 vendor/
 
 # End of https://www.toptal.com/developers/gitignore/api/jekyll
+.DS_Store
