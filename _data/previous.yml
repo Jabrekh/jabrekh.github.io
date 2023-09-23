@@ -1,34 +1,39 @@
 - semester: Spring 2023
   problems:
     - title: HW1
+      subtitle: Vector Space and Linear Equations
       assets:
-        - file: Question Set
+        - file: Questions
           link: assets/materials/CE282_1_Spring23_HW1.pdf
         - file: Solution
           link: assets/materials/CE282_1_Spring23_HW1_Sol.pdf
     - title: HW2
+      subtitle: Independence, Inner Product, and Norm
       assets:
-        - file: Question Set
+        - file: Questions
           link: assets/materials/CE282_1_Spring23_HW2.pdf
         - file: Solution
           link: assets/materials/CE282_1_Spring23_HW2_Sol.pdf
     - title: HW3
+      subtitle: Matrices
       assets:
         - file: Questions
           link: assets/materials/CE282_1_Spring23_HW3.pdf
     - title: HW4
+      subtitle: Eigenvalues and Eigenvectors
       assets:
         - file: Questions
           link: assets/materials/CE282_1_Spring23_HW4.pdf
         - file: Solution
           link: assets/materials/CE282_1_Spring23_HW4_SOL.pdf
     - title: HW5
+      subtitle: Singular Value, Decomposition, and Derivatives
       assets:
         - file: Questions
           link: assets/materials/CE282_1_Spring23_HW5_6.pdf
     - title: Project
       assets:
-        - file: Questions
+        - file: Files
           link: assets/materials/CE282_1_Spring23_Project.zip
 - semester: Fall 2022
   problems:
