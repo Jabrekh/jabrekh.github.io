@@ -210,11 +210,11 @@ layout: master
                 {% for instruction in site.data.previous %}
                 <div class="accordion-item">
                     <h2 class="accordion-header"><button class="accordion-button" type="button"
-                            data-bs-toggle="collapse" data-bs-target="#collapse{{ instruction.semester-slugify }}"
-                            aria-expanded="true" aria-controls="collapse{{ instruction.semester-slugify }}">
+                            data-bs-toggle="collapse" data-bs-target="#collapse{{ instruction.semester | slugify }}"
+                            aria-expanded="true" aria-controls="collapse{{ instruction.semester | slugify }}">
                             {{ instruction.semester }}
                         </button></h2>
-                    <div id="collapse{{ instruction.semester-slugify }}" class="accordion-collapse collapse"
+                    <div id="collapse{{ instruction.semester | slugify }}" class="accordion-collapse collapse"
                         data-bs-parent="#problem-sets-container">
                         <div class="accordion-body">
                             {% for material in instruction.problems %}
