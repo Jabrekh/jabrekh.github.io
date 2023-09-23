@@ -158,7 +158,7 @@ layout: master
             </div> <br>
         </div>
         <div class="tab-pane fade" id="link-profile" role="tabpanel" aria-labelledby="link-profile-tab" tabindex="0">
-            
+
             <h4 class="display-6">Materials</h4>
 
             {% if site.data.materials %}
@@ -206,23 +206,35 @@ layout: master
         <div class="tab-pane fade" id="link-previous" role="tabpanel" aria-labelledby="link-previous-tab" tabindex="0">
             <h4 class="display-6">Problem sets</h4>
             {% if site.data.previous %}
-            {% for instruction in site.data.previous reversed %}
-            <h1>{{instruction.semester}}</h1>
-            {% for material in instruction.problems %}
-            <div class="card" style="margin-top: 10pt; margin-bottom: 10pt;">
-                <div class="card-body">
-                    <h5 class="card-title">{{ material.title }}</h5>
-                    <h6 class="card-subtitle mb-2 text-muted">{{ material.subtitle }}</h6>
-                    <p class="card-text">
-                    </p>
-                    {% for asset in material.assets %}
-                    <a href="{{ asset.link }}" class="card-link">{{ asset.file }}</a>
+            <div class="accordion" id="problem-sets-container">
+                {% for instruction in site.data.previous %}
+                <div class="accordion-item">
+                    <h2 class="accordion-header"><button class="accordion-button" type="button"
+                            data-bs-toggle="collapse" data-bs-target="#collapse{{ instruction.semester-slugify }}"
+                            aria-expanded="true" aria-controls="collapse{{ instruction.semester-slugify }}">
+                            {{ instruction.semester }}
+                        </button></h2>
+                    <div id="collapse{{ instruction.semester-slugify }}" class="accordion-collapse collapse show"
+                        data-bs-parent="#problem-sets-container">
+                        <div class="accordion-body">
+                            {% for material in instruction.problems %}
+                            <div class="card" style="margin-top: 10pt; margin-bottom: 10pt;">
+                                <div class="card-body">
+                                    <h5 class="card-title">{{ material.title }}</h5>
+                                    <p class="card-text">
+                                    </p>
+                                    {% for asset in material.assets %}
+                                    <a href="{{ asset.link }}" class="card-link">{{ asset.file }}</a>
 
-                    {% endfor %}
+                                    {% endfor %}
+                                </div>
+                            </div>
+                            {% endfor %}
+                        </div>
+                    </div>
                 </div>
+                {% endfor %}
             </div>
-            {% endfor %}
-            {% endfor %}
             {% else %}
             No Problem sets has been posted yet. <br> <br>
             {% endif %}
