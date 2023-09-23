@@ -6,6 +6,18 @@
   subtitle: Supervising TA
   email: aryan.ahadinia@sharif.edu
   img: assets/images/TAs/aryan.jpg
+- name: Parsa Haghighi
+  subtitle: Masters
+  email: parsa178@gmail.com
+  img: assets/images/TAs/generic.jpg
+- name: Mahsa Yazdani
+  subtitle: Masters
+  email: mah.yzdni@gmail.com
+  img: assets/images/TAs/yazdani.jpg
+- name: Elham Abolhasani
+  subtitle: Masters
+  email: elhamabolhasani1999@gmail.com
+  img: assets/images/TAs/generic.jpg
 - name: Ali Salesi
   email: ali_sal1381@yahoo.com
   img: assets/images/TAs/salesi.jpg
@@ -30,3 +42,6 @@
 - name: Ilya Mahrooghi
   email: ilyamahrooghimath@gmail.com
   img: assets/images/TAs/mahroghi.jpg
+-name: Kiarash Kianian
+  email: oxfvard@gmail.com
+  img: assets/images/TAs/kianian.jpg
