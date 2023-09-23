@@ -30,12 +30,12 @@ layout: master
                             Assignments
                         </a>
                     </li>
-                    <!-- <li class="nav-item" role="presentation">
-                        <a class="nav-link" id="link-disabled-tab" data-bs-toggle="pill" data-bs-target="#link-disabled"
-                            type="button" role="tab" aria-controls="link-disabled" aria-selected="false">
-                            Previous Instructions
+                    <li class="nav-item" role="presentation">
+                        <a class="nav-link" id="link-previous-tab" data-bs-toggle="pill" data-bs-target="#link-previous"
+                            type="button" role="tab" aria-controls="link-previous" aria-selected="false">
+                            Problem sets
                         </a>
-                    </li> -->
+                    </li>
                 </ul>
             </div>
         </div>
@@ -203,7 +203,7 @@ layout: master
             {% endif %}
         </div>
 
-        <div class="tab-pane fade" id="link-disabled" role="tabpanel" aria-labelledby="link-disabled-tab" tabindex="0">
+        <div class="tab-pane fade" id="link-previous" role="tabpanel" aria-labelledby="link-previous-tab" tabindex="0">
             <h4 class="display-6">Problem sets</h4>
             {% if site.data.previous %}
             {% for instruction in site.data.previous reversed %}
