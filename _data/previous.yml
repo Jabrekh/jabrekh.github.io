@@ -19,6 +19,8 @@
       assets:
         - file: Questions
           link: assets/materials/CE282_1_Spring23_HW3.pdf
+        - file: Solution
+          link: 
     - title: HW4
       subtitle: Eigenvalues and Eigenvectors
       assets:
@@ -31,6 +33,8 @@
       assets:
         - file: Questions
           link: assets/materials/CE282_1_Spring23_HW5_6.pdf
+        - file: Solution
+          link: 
     - title: Project
       assets:
         - file: Files
