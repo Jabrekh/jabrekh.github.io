@@ -202,10 +202,13 @@ layout: master
             No assignment has been posted yet. <br> <br>
             {% endif %}
         </div>
-        <!-- <div class="tab-pane fade" id="link-disabled" role="tabpanel" aria-labelledby="link-disabled-tab" tabindex="0">
-            <h4 class="display-6">Previous Instructions</h4>
+
+        <div class="tab-pane fade" id="link-disabled" role="tabpanel" aria-labelledby="link-disabled-tab" tabindex="0">
+            <h4 class="display-6">Problem sets</h4>
             {% if site.data.previous %}
-            {% for material in site.data.previous reversed %}
+            {% for instruction in site.data.previous reversed %}
+            <h1>{{instruction.semester}}</h1>
+            {% for material in instruction %}
             <div class="card" style="margin-top: 10pt; margin-bottom: 10pt;">
                 <div class="card-body">
                     <h5 class="card-title">{{ material.title }}</h5>
@@ -219,9 +222,10 @@ layout: master
                 </div>
             </div>
             {% endfor %}
+            {% endfor %}
             {% else %}
-            No material has been posted yet. <br> <br>
+            No Problem sets has been posted yet. <br> <br>
             {% endif %}
-        </div> -->
+        </div>
     </div>
 </div>
