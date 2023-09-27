@@ -43,89 +43,89 @@
       assets:
         - file: Questions
           link: assets/archive/CE282-1_Spring23_Alt_Midterm.pdf
-# - semester: Fall 2022
-#   problems:
-#     - title: HW1
-#     subtitle: Vector Space and Linear Equations
-#     assets:
-#       - file: Questions
-#         link: assets/archive/LA_Fall22_HW1.pdf
-#       - file: Solution
-#         link: assets/archive/LA_Fall22_HW1_Solution.pdf
-#     - title: HW2
-#     subtitle: Combinations and Independence
-#     assets:
-#       - file: Questions
-#         link: assets/archive/LA_Fall22_HW2.pdf
-#       - file: Solution
-#         link: assets/archive/LA_Fall22_HW2_Solution.pdf
-#     - title: HW3
-#     subtitle: Norm, Inner product, Orthogonality
-#     assets:
-#       - file: Questions
-#         link: assets/archive/LA_Fall22_HW3.pdf
-#       - file: Solution
-#         link: 
-#     - title: HW4
-#     subtitle: Matrices
-#     assets:
-#       - file: Questions
-#         link: assets/archive/LA_Fall22_HW4.pdf
-#       - file: Solution
-#         link: assets/archive/LA_Fall22_HW4_Solution.pdf
-#     - title: HW5
-#     subtitle: Eigenvalues, Eigenvectors
-#     assets:
-#       - file: Questions
-#         link: assets/archive/LA_Fall22_HW5.pdf
-#       - file: Solution
-#         link: assets/archive/LA_Fall22_HW5_Solution.pdf
-#     - title: Final
-#     assets:
-#       - file: Questions
-#         link: assets/archive/CE282_1-Fall22-Final.pdf
-# - semester: Fall 2020
-#   problems:
-#     - title: HW1
-#     assets:
-#       - file: Questions
-#         link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW1 Sol.pdf
-#       - file: Solution
-#         link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW1 Answer.pdf
-#     - title: HW2
-#     assets:
-#       - file: Questions
-#         link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW2 Sol.pdf
-#       - file: Solution
-#         link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW2 Answer.pdf
-#     - title: HW3
-#     assets:
-#       - file: Questions
-#         link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW3 Sol.pdf
-#       - file: Solution
-#         link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW3 Answer.pdf
-#     - title: HW4
-#     assets:
-#       - file: Questions
-#         link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW4 Sol.pdf
-#       - file: Solution
-#         link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW4 Answer.pdf
-#     - title: HW5
-#     assets:
-#       - file: Questions
-#         link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW5 Sol.pdf
-#       - file: Solution
-#         link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW5 Answer.pdf
-#     - title: HW6
-#     assets:
-#       - file: Questions
-#         link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW6 Sol.pdf
-#       - file: Solution
-#         link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW6 Answer.pdf
-#     - title: HW7
-#     assets:
-#       - file: Questions
-#         link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW7 Sol.pdf
-#       - file: Solution
-#         link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW7 Answer.pdf
+- semester: Fall 2022
+  problems:
+    - title: HW1
+      subtitle: Vector Space and Linear Equations
+      assets:
+        - file: Questions
+          link: assets/archive/LA_Fall22_HW1.pdf
+        - file: Solution
+          link: assets/archive/LA_Fall22_HW1_Solution.pdf
+    - title: HW2
+      subtitle: Combinations and Independence
+      assets:
+        - file: Questions
+          link: assets/archive/LA_Fall22_HW2.pdf
+        - file: Solution
+          link: assets/archive/LA_Fall22_HW2_Solution.pdf
+    - title: HW3
+      subtitle: Norm, Inner product, Orthogonality
+      assets:
+        - file: Questions
+          link: assets/archive/LA_Fall22_HW3.pdf
+        - file: Solution
+          link: 
+    - title: HW4
+      subtitle: Matrices
+      assets:
+        - file: Questions
+          link: assets/archive/LA_Fall22_HW4.pdf
+        - file: Solution
+          link: assets/archive/LA_Fall22_HW4_Solution.pdf
+    - title: HW5
+      subtitle: Eigenvalues, Eigenvectors
+      assets:
+        - file: Questions
+          link: assets/archive/LA_Fall22_HW5.pdf
+        - file: Solution
+          link: assets/archive/LA_Fall22_HW5_Solution.pdf
+    - title: Final
+      assets:
+        - file: Questions
+          link: assets/archive/CE282_1-Fall22-Final.pdf
+- semester: Fall 2020
+  problems:
+    - title: HW1
+      assets:
+        - file: Questions
+          link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW1 Sol.pdf
+        - file: Solution
+          link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW1 Answer.pdf
+    - title: HW2
+      assets:
+        - file: Questions
+          link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW2 Sol.pdf
+        - file: Solution
+          link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW2 Answer.pdf
+    - title: HW3
+      assets:
+        - file: Questions
+          link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW3 Sol.pdf
+        - file: Solution
+          link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW3 Answer.pdf
+    - title: HW4
+      assets:
+        - file: Questions
+          link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW4 Sol.pdf
+        - file: Solution
+          link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW4 Answer.pdf
+    - title: HW5
+      assets:
+        - file: Questions
+          link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW5 Sol.pdf
+        - file: Solution
+          link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW5 Answer.pdf
+    - title: HW6
+      assets:
+        - file: Questions
+          link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW6 Sol.pdf
+        - file: Solution
+          link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW6 Answer.pdf
+    - title: HW7
+      assets:
+        - file: Questions
+          link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW7 Sol.pdf
+        - file: Solution
+          link: assets/archive/LA Fall 2020 Homeworks/LA Fall 2020 HW7 Answer.pdf
     
