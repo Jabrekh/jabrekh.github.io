@@ -127,6 +127,23 @@
 #       link: assets/materials/LA_Spring2023_L04-LinearEquations.pdf
 #     - file: Theorem Proofs
 #       link: assets/materials/4-LinearEquations-ProofofTheorems.pdf
+- title: Elementary row operations, Linear Equations
+  subtitle: Mehr 18, 1402
+  assets:
+    - file: PDF
+      link: assets/materials/fall 2023 - slides/5-Elementary Row Operations-Linear Equations1.pdf
+    - file: Powerpoint
+      link: assets/materials/fall 2023 - slides/5-Elementary Row Operations-Linear Equations.pptx
+- title: Subspaces
+  subtitle: Mehr 16, 1402
+  assets:
+    - file: Slide
+      link: assets/materials/fall 2023 - slides/4-Subspaces.pdf
+- title: Flop & Complexity
+  subtitle: Mehr 16, 1402
+  assets:
+    - file: Slide
+      link: assets/materials/fall 2023 - slides/3-Flop&Complexity.pdf
 - title: General Vector Space
   subtitle: Mehr 9, 1402
   assets:
