@@ -1,15 +1,11 @@
-# - title: Vector Space and Linear Equations
-#   subtitle: HW1
-#   paragraph: >2
-#     Theoretical Part (140 Points), Submission Deadline: 1401/12/06 23:59:59 with possibility of late submission until 1401/12/11 23:59:59<br>
-#     Practical Part (32 Points), Submission Deadline: 1401/12/08 23:59:59 with possibility of late submission until 1401/12/13 23:59:59
-#   assets:
-#     - file: Question Set
-#       link: assets/materials/CE282_1_Spring23_HW1.pdf
-#     - file: Sample Test Cases
-#       link: assets/materials/CE282_1_Spring23_HW1_Test_Cases.zip
-#     - file: Solution
-#       link: assets/materials/CE282_1_Spring23_HW1_Sol.pdf
+- title: Vector Space and Linear Equations
+  subtitle: HW1
+  paragraph: >2
+    Theoretical Part (100 Points), Submission Deadline: 1402/08/05 23:59:59 with possibility of late submission until 1402/08/08 23:59:59<br>
+    Practical Part (100 Points), Submission Deadline: 1402/08/05 23:59:59 with possibility of late submission until 1402/08/08 23:59:59
+  assets:
+    - file: Question Set
+      link: assets/materials/fall 2023 - assignments/HW1.pdf
 # - title: Independence, Inner Product, and Norm
 #   subtitle: HW2
 #   paragraph: >2
