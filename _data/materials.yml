@@ -135,10 +135,10 @@
 - title: Elementary row operations, Linear Equations
   subtitle: Mehr 18, 1402
   assets:
-    - file: PDF
+    - file: Slide
       link: assets/materials/fall 2023 - slides/5-Elementary Row Operations-Linear Equations1.pdf
-    - file: Powerpoint
-      link: assets/materials/fall 2023 - slides/5-Elementary Row Operations-Linear Equations.pptx
+#    - file: Powerpoint
+#      link: assets/materials/fall 2023 - slides/5-Elementary Row Operations-Linear Equations.pptx
 - title: Subspaces
   subtitle: Mehr 16, 1402
   assets:
