@@ -115,6 +115,11 @@
 #   assets:
 #     - file: Slide
 #       link: assets/materials/LA_Spring2023_L06-Independence.pdf
+- title: Basis and Dimension
+  subtitle: Aban 02,1402
+  assets:
+    - file: Slide
+      link: assets/materials/fall 2023 - slides/8-Bases and Dimension1.pdf
 - title: Independence
   subtitle: Mehr 25,1402
   assets:
