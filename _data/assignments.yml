@@ -1,4 +1,4 @@
-- title: Vector Space and Linear Equations
+- title: Vector Space & Linear Equations
   subtitle: HW1
   paragraph: >2
     Theoretical Part (100 Points), Submission Deadline: 1402/08/05 with possibility of late submission until 1402/08/08<br>
@@ -6,6 +6,14 @@
   assets:
     - file: Question Set
       link: assets/materials/fall 2023 - assignments/HW1.pdf
+- title: Independence, Basis & Dimension
+  subtitle: HW2
+  paragraph: >2
+    Theoretical Part (100 + 20 Points), Submission Deadline: 1402/08/19 with possibility of late submission until 1402/08/22<br>
+    Practical Part (100 Points), Submission Deadline: 1402/08/19 with possibility of late submission until 1402/08/22
+  assets:
+    - file: Question Set
+      link: assets/materials/fall 2023 - assignments/HW2.pdf
 # - title: Independence, Inner Product, and Norm
 #   subtitle: HW2
 #   paragraph: >2
