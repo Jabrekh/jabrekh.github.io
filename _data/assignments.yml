@@ -6,6 +6,10 @@
   assets:
     - file: Question Set
       link: assets/materials/fall 2023 - assignments/HW1.pdf
+    - file: Theoretical Solution
+      link: assets/materials/fall 2023 - assignments/HW1_Sol.pdf
+    - file: Practical Solution
+      link: assets/materials/fall 2023 - assignments/sol.py
 - title: Independence, Basis & Dimension
   subtitle: HW2
   paragraph: >2
