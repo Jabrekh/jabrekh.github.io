@@ -141,11 +141,15 @@
   assets:
     - file: Slide
       link: assets/materials/fall 2023 - slides/9-InnerProductSpace.pdf
+    - file: Theorems
+      link: assets/materials/theorems/Inner.pdf
 - title: Basis and Dimension
   subtitle: Aban 02,1402
   assets:
     - file: Slide
       link: assets/materials/fall 2023 - slides/8-Bases and Dimension.pdf
+    - file: Theorems
+      link: assets/materials/theorems/Basis.pdf
 - title: Independence
   subtitle: Mehr 25,1402
   assets:
@@ -166,6 +170,8 @@
   assets:
     - file: Slide
       link: assets/materials/fall 2023 - slides/5-Elementary Row Operations-Linear Equations1.pdf
+    - file: Theorems
+      link: assets/materials/theorems/Elementary Row Operations.pdf
 #    - file: Powerpoint
 #      link: assets/materials/fall 2023 - slides/5-Elementary Row Operations-Linear Equations.pptx
 - title: Subspaces
@@ -173,6 +179,8 @@
   assets:
     - file: Slide
       link: assets/materials/fall 2023 - slides/4-Subspaces.pdf
+    - file: Theorems
+      link: assets/materials/theorems/Subspaces.pdf
 - title: Flop & Complexity
   subtitle: Mehr 16, 1402
   assets:
