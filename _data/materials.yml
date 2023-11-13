@@ -126,6 +126,8 @@
   assets:
     - file: Slide
       link: assets/materials/fall 2023 - slides/11-Orthogonality.pdf
+    - file: Slide
+      link: assets/materials/theorems/Orthogonality.pdf
 - title: Euclidian Norm, Inequalities, Angle
   subtitle: Aban 14, 1402
   assets:
