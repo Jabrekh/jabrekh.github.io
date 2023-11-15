@@ -9,7 +9,7 @@
     - file: Theoretical Solution
       link: assets/materials/fall 2023 - assignments/HW1_Sol.pdf
     - file: Practical Solution
-      link: assets/materials/fall 2023 - assignments/sol.py
+      link: assets/materials/fall 2023 - assignments/HW1_Sol.py
 - title: Independence, Basis & Dimension
   subtitle: HW2
   paragraph: >2
@@ -18,6 +18,10 @@
   assets:
     - file: Question Set
       link: assets/materials/fall 2023 - assignments/HW2.pdf
+    - file: Theoretical Solution
+      link: assets/materials/fall 2023 - assignments/HW2_Sol.pdf
+    - file: Practical Solution
+      link: assets/materials/fall 2023 - assignments/HW2_Sol.zip
 # - title: Independence, Inner Product, and Norm
 #   subtitle: HW2
 #   paragraph: >2
