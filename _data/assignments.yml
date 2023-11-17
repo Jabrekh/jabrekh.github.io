@@ -20,6 +20,14 @@
       link: assets/materials/fall 2023 - assignments/HW2.pdf
     - file: Theoretical Solution
       link: assets/materials/fall 2023 - assignments/HW2_Sol.pdf
+- title: Rank, Inverse & Determinant
+  subtitle: HW3
+  paragraph: >2
+    Theoretical Part (100 Points), Submission Deadline: 1402/09/17, late submission until 1402/09/20<br>
+    Practical Part (100 Points), Submission Deadline: 1402/09/17, late submission until 1402/09/20
+  assets:
+    - file: Question Set
+      link: assets/materials/fall 2023 - assignments/HW3.pdf
 # - title: Independence, Inner Product, and Norm
 #   subtitle: HW2
 #   paragraph: >2
