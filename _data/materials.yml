@@ -115,6 +115,16 @@
 #   assets:
 #     - file: Slide
 #       link: assets/materials/LA_Spring2023_L06-Independence.pdf
+- title: Matrix Inverse
+  subtitle: Aban 29, 1402
+  assets:
+    - file: Slide
+      link: assets/materials/fall 2023 - slides/16-Matrix Inverse.pdf
+- title: Matrix Rank & Dimension
+  subtitle: Aban 27, 1402
+  assets:
+    - file: Slide
+      link: assets/materials/fall 2023 - slides/15-Matrix Rank & Dimension.pdf
 - title: Matrix Properties
   subtitle: Take Home
   assets:
