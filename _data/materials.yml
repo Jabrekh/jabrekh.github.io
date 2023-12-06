@@ -115,6 +115,11 @@
 #   assets:
 #     - file: Slide
 #       link: assets/materials/LA_Spring2023_L06-Independence.pdf
+- title: Determinant
+  subtitle: Azar, 1402
+  assets:
+    - file: Slide
+      link: assets/materials/fall 2023 - slides/17-Determinant.pdf
 - title: Matrix Inverse
   subtitle: Aban 29, 1402
   assets:
