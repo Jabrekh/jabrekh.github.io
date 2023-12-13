@@ -135,6 +135,8 @@
   assets:
     - file: Slide
       link: assets/materials/fall 2023 - slides/15-Matrix Rank & Dimension.pdf
+    - file: Theorems
+      link: assets/materials/theorems/Rank.pdf
 - title: Matrix Properties
   subtitle: Take Home
   assets:
@@ -150,12 +152,14 @@
   assets:
     - file: Slide
       link: assets/materials/fall 2023 - slides/12-Linear Transformation.pdf
+    - file: Theorems
+      link: assets/materials/theorems/Linear.pdf
 - title: Orthogonality
   subtitle: Aban 16, 1402
   assets:
     - file: Slide
       link: assets/materials/fall 2023 - slides/11-Orthogonality.pdf
-    - file: Slide
+    - file: Theorems
       link: assets/materials/theorems/Orthogonality.pdf
 - title: Euclidian Norm, Inequalities, Angle
   subtitle: Aban 14, 1402
