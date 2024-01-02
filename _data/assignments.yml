@@ -38,6 +38,16 @@
   assets:
     - file: Question Set
       link: assets/materials/fall 2023 - assignments/HW4.pdf
+- title: Matrix Factorization
+  subtitle: HW5
+  paragraph: >2
+    Theoretical Part (80 Points), Submission Deadline: 1402/10/28, late submission until 1402/11/1<br>
+    Practical Part (20 Points), Submission Hard Deadline: 1402/11/6
+  assets:
+    - file: Theoretical
+      link: assets/materials/fall 2023 - assignments/HW5.pdf
+    - file: Practical
+      link: assets/materials/fall 2023 - assignments/HW5-prac.zip
 # - title: Independence, Inner Product, and Norm
 #   subtitle: HW2
 #   paragraph: >2
