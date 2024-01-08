@@ -1,120 +1,3 @@
-# - title: Best Low Rank Matrix and PCA (Optional)
-#   subtitle: 
-#   assets:
-#     - file: Slide
-#       link: assets/materials/LA_Spring2023_L24-BestLowRankMatrixPCA.pdf
-#     - file: Video
-#       link: https://drive.google.com/file/d/1Wape9vsAutjEOpGrg4Ve8E0_df4U8HQU/view?usp=sharing
-# - title: Tensor Derivatives
-#   subtitle: 
-#   assets:
-#     - file: Slide
-#       link: assets/materials/LA_Spring2023_L23-TensorDerivatives.rar
-#     - file: Slide
-#       link: assets/materials/26-TensorDerivatives.pdf
-# - title: Matrix Inner Product and Norm
-#   subtitle: 
-#   assets:
-#     - file: Slide
-#       link: assets/materials/LA_Spring2023_L22-MatrixInnerProductNorm.pdf
-# - title: Least Square
-#   subtitle: 
-#   assets:
-#     - file: Slide1
-#       link: assets/materials/LA_Spring2023_L21-LeastSquare.pdf
-#     - file: Slide2
-#       link: assets/materials/LA_Spring2023_L22-LeastsquaresRegression.pdf
-# - title: Singualr Value, Singular Vector, and SVD
-#   subtitle: 
-#   assets:
-#     - file: Slide
-#       link: assets/materials/LA_Spring2023_L20-SVD.pdf
-#     - file: Theorem Proofs
-#       link: assets/materials/20-supp.pdf
-# - title: Symmetric Matrices and Quaratic Form
-#   subtitle: 
-#   assets:
-#     - file: Slide
-#       link: assets/materials/LA_Spring2023_L19-SymmetricMatricesQuaraticForm.pdf
-#     - file: Theorem Proofs
-#       link: assets/materials/19-supp.pdf
-# - title: Decomposition and Matrix Factorization
-#   subtitle: 
-#   assets:
-#     - file: Slide
-#       link: assets/materials/LA_Spring2023_L18-MatrixFactorization.pdf
-#     - file: Theorem Proofs
-#       link: assets/materials/18-supp.pdf
-# - title: Eigenvalue and Eigenvector
-#   subtitle: 
-#   assets:
-#     - file: Slide
-#       link: assets/materials/LA_Spring2023_L17-EigenvalueEigenvector.pdf
-#     - file: Theorem Proofs
-#       link: assets/materials/17-supp.pdf
-# - title: Determinant
-#   subtitle: 
-#   assets:
-#     - file: Slide
-#       link: assets/materials/LA_Spring2023_L16-Deterninant.pdf
-# - title: QR Decomposition and Pseudo inverse
-#   subtitle: 
-#   assets:
-#     - file: Slide
-#       link: assets/materials/LA_Spring2023_L15-QRInverse.pdf
-# - title: Inverse
-#   subtitle: 
-#   assets:
-#     - file: Slide
-#       link: assets/materials/LA_Spring2023_L14-Inverse.pdf
-# - title: Dimension and Rank
-#   subtitle: 
-#   assets:
-#     - file: Slide
-#       link: assets/materials/LA_Spring2023_L13-DimensionRank.pdf
-#     - file: Proves
-#       link: assets/materials/rpY1hB-subspaces_merged.pdf
-# - title: Surjection and Injection - Change of Basis
-#   subtitle: 
-#   assets:
-#     - file: Slide
-#       link: assets/materials/LA_Spring2023_L12-SurjectionInjectionBasis.pdf
-#     - file: Video
-#       link: assets/materials/ChangeoFBasis-Video.rar
-# - title: Transformations
-#   subtitle: 
-#   assets:
-#     - file: Slide
-#       link: assets/materials/LA_Spring2023_L11-Transformations.pdf
-#     - file: Video
-#       link: assets/materials/Transformations-Video.rar
-# - title: Matrix Properties
-#   subtitle: 
-#   assets:
-#     - file: Slide
-#       link: assets/materials/LA_Spring2023_L10-MatrixProperties.pdf
-# - title: Norm Space
-#   subtitle: 
-#   assets:
-#     - file: Slide
-#       link: assets/materials/LA_Spring2023_L09-NormSpace.pdf
-#     - file: Video
-#       link: assets/materials/NormSpacevideo.mp4
-# - title: Euclidian Norm and Inequalities
-#   subtitle: 
-#   assets:
-#     - file: Slide
-#       link: assets/materials/LA_Spring2023_L08-EuclidianNormInequalities.pdf
-# - title: Inner Product and Orthogonality
-#   subtitle: 
-#   assets:
-#     - file: Slide
-#       link: assets/materials/LA_Spring2023_L07-InnerProductOrthogonality.pdf
-# - title: Independence (Linear and Affine)
-#   subtitle: 
-#   assets:
-#     - file: Slide
-#       link: assets/materials/LA_Spring2023_L06-Independence.pdf
 - title: Matrix Factorization
   subtitle: Dey, 1402
   assets:
@@ -124,7 +7,7 @@
   subtitle: Dey, 1402
   assets:
     - file: Slide
-      link: assets/materials/fall 2023 - slides/22-Matrix Factorization.pdf
+      link: assets/materials/fall 2023 - slides/22-EigenvalueEigenvector.pdf
 - title: Least Squares Slide
   subtitle: Dey, 1402
   assets:
@@ -134,7 +17,7 @@
   subtitle: Dey, 1402
   assets:
     - file: Slide
-      link: assets/materials/fall 2023 - slides/20-Least squares.pdf
+      link: assets/materials/fall 2023 - slides/20-Tensor Derivatives.pdf
 - title: Affine Function Slide
   subtitle: Dey, 1402
   assets:
