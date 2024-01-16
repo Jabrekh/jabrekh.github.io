@@ -1,3 +1,13 @@
+- title: Quadratic Forms
+  subtitle: Dey, 1402
+  assets:
+    - file: Slide
+      link: assets/materials/fall 2023 - slides/25-Symmetric Matrices and Quadratic Forms.pdf
+- title: SVD
+  subtitle: Dey, 1402
+  assets:
+    - file: Slide
+      link: assets/materials/fall 2023 - slides/24-SVD.pdf
 - title: Matrix Factorization
   subtitle: Dey, 1402
   assets:
