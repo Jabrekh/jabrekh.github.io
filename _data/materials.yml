@@ -36,7 +36,7 @@
     - file: Slide
       link: assets/materials/fall 2023 - slides/21-Least squares.pdf
     - file: Theorem
-      link: assets/materials/theorems/Leastsqaure.pdf
+      link: assets/materials/theorems/LS.rar
 - title: Derivation Slide
   subtitle: Dey, 1402
   assets:
