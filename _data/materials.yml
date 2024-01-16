@@ -12,6 +12,10 @@
   assets:
     - file: Slide
       link: assets/materials/fall 2023 - slides/24-SVD.pdf
+    - file: Theorem
+      link: assets/materials/theorems/20-supp
+    - file: Video
+      link: https://drive.google.com/file/d/128MaSdvYxkZ70Gzuk3htZ1y2m255JlYf/view?usp=drive_link
 - title: Matrix Factorization
   subtitle: Dey, 1402
   assets:
