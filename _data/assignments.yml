@@ -38,6 +38,8 @@
   assets:
     - file: Question Set
       link: assets/materials/fall 2023 - assignments/HW4.pdf
+    - file: Theoretical Solution
+      link: assets/materials/fall 2023 - assignments/HW4_sol.pdf
 - title: Matrix Factorization
   subtitle: HW5
   paragraph: >2
@@ -48,6 +50,8 @@
       link: assets/materials/fall 2023 - assignments/HW5.pdf
     - file: Practical
       link: assets/materials/fall 2023 - assignments/HW5-prac.zip
+    - file: Theoretical Solution
+      link: assets/materials/fall 2023 - assignments/HW5_sol.pdf
 - title: Project
   subtitle: 
   paragraph: >2
