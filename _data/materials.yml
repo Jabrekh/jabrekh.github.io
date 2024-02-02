@@ -1,170 +1,170 @@
-- title: Quadratic Forms
-  subtitle: Dey, 1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/25-Symmetric Matrices and Quadratic Forms.pdf
-    - file: Theorem
-      link: assets/materials/theorems/19-supp.pdf
-    - file: Video
-      link: https://drive.google.com/file/d/1wxPDHm0X7oLQ6m5wYvH8MUiVQkPUlJbz/view
-- title: SVD
-  subtitle: Dey, 1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/24-SVD.pdf
-    - file: Theorem
-      link: assets/materials/theorems/20-supp.pdf
-    - file: Video
-      link: https://drive.google.com/file/d/128MaSdvYxkZ70Gzuk3htZ1y2m255JlYf/view?usp=drive_link
-- title: Matrix Factorization
-  subtitle: Dey, 1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/23-Matrix Factorization.pdf
-    - file: Theorem
-      link: assets/materials/theorems/Matrix Factorization.pdf
-- title: Eigenvalue and Eigenvector
-  subtitle: Dey, 1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/22-EigenvalueEigenvector.pdf
-    - file: Theorem
-      link: assets/materials/theorems/Eigenvalues and Eigenvectors.pdf
-- title: Least Squares Slide
-  subtitle: Dey, 1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/21-Least squares.pdf
-    - file: Theorem
-      link: assets/materials/theorems/LS.rar
-- title: Derivation Slide
-  subtitle: Dey, 1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/20-Tensor Derivatives.pdf
-- title: Affine Function Slide
-  subtitle: Dey, 1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/19- Affine Function.pdf
-- title: Norm Slide
-  subtitle: Azar, 1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/18-Norm Space.pdf
-- title: Determinant
-  subtitle: Azar, 1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/17-Determinant.pdf
-- title: Matrix Inverse
-  subtitle: Aban 29, 1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/16-Matrix Inverse.pdf
-- title: Matrix Rank & Dimension
-  subtitle: Aban 27, 1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/15-Matrix Rank & Dimension.pdf
-    - file: Theorems
-      link: assets/materials/theorems/Rank.pdf
-- title: Matrix Properties
-  subtitle: Take Home
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/14-Matrix Properties.pdf
-- title: Change Of Basis
-  subtitle: Aban 22, 1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/13-ChangeOfBasis.pdf
-- title: Linear Transformation
-  subtitle: Aban 20, 1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/12-Linear Transformation.pdf
-    - file: Theorems
-      link: https://drive.google.com/file/d/1UAnnuXoQK2T0VzwnENCOVTJ6WEn-JS26/view?usp=sharing
-- title: Orthogonality
-  subtitle: Aban 16, 1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/11-Orthogonality.pdf
-    - file: Theorems
-      link: assets/materials/theorems/Orthogonality.pdf
-- title: Euclidian Norm, Inequalities, Angle
-  subtitle: Aban 14, 1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/10-Euclidian Norm,Inequalities and Angle.pdf
-- title: TA Class 2 (HW1 QA)
-  subtitle: Mehr 26, 1402 by Amirhossein Akbari
-  assets:
-    - file: Video
-      link: https://drive.google.com/file/d/19oPykL499fBCHuxywqxjrznk0ibcYQwu/view?usp=sharing
-- title: Inner Product Space
-  subtitle: Aban 09, 1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/9-InnerProductSpace.pdf
-    - file: Theorems
-      link: assets/materials/theorems/Inner.pdf
-- title: Basis and Dimension
-  subtitle: Aban 02,1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/8-Bases and Dimension.pdf
-    - file: Theorems
-      link: assets/materials/theorems/Basis.pdf
-- title: Independence
-  subtitle: Mehr 25,1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/7-Independence (Linear and Affine).pdf
-- title: Echelon forms, Row reduction
-  subtitle: Mehr 23, 1402
-  assets:
-    - file: Slides
-      link: assets/materials/fall 2023 - slides/6-Echelon Forms and Row Reduction.pdf
-- title: TA Class 1 (Class Theorems)
-  subtitle: Mehr 19, 1402 by Ashkan Majidi
-  assets:
-    - file: Video
-      link: https://drive.google.com/file/d/1S4o7W1GADD58pRXuMw41W-gf-J19wawB/view?usp=sharing
-- title: Elementary row operations, Linear Equations
-  subtitle: Mehr 18, 1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/5-Elementary Row Operations-Linear Equations1.pdf
-    - file: Theorems
-      link: assets/materials/theorems/Elementary Row Operations.pdf
-#    - file: Powerpoint
-#      link: assets/materials/fall 2023 - slides/5-Elementary Row Operations-Linear Equations.pptx
-- title: Subspaces
-  subtitle: Mehr 16, 1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/4-Subspaces.pdf
-    - file: Theorems
-      link: assets/materials/theorems/Subspaces.pdf
-- title: Flop & Complexity
-  subtitle: Mehr 16, 1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/3-Flop&Complexity.pdf
-- title: General Vector Space
-  subtitle: Mehr 9, 1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/2-VectorSpace.pdf
-- title: Introduction
-  subtitle: Mehr 4, 1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/1-Introduction.pdf
-- title: Course Description
-  subtitle: Mehr 4, 1402
-  assets:
-    - file: Slide
-      link: assets/materials/fall 2023 - slides/0-Course Description.pdf
+# - title: Quadratic Forms
+#   subtitle: Dey, 1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/25-Symmetric Matrices and Quadratic Forms.pdf
+#     - file: Theorem
+#       link: assets/materials/theorems/19-supp.pdf
+#     - file: Video
+#       link: https://drive.google.com/file/d/1wxPDHm0X7oLQ6m5wYvH8MUiVQkPUlJbz/view
+# - title: SVD
+#   subtitle: Dey, 1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/24-SVD.pdf
+#     - file: Theorem
+#       link: assets/materials/theorems/20-supp.pdf
+#     - file: Video
+#       link: https://drive.google.com/file/d/128MaSdvYxkZ70Gzuk3htZ1y2m255JlYf/view?usp=drive_link
+# - title: Matrix Factorization
+#   subtitle: Dey, 1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/23-Matrix Factorization.pdf
+#     - file: Theorem
+#       link: assets/materials/theorems/Matrix Factorization.pdf
+# - title: Eigenvalue and Eigenvector
+#   subtitle: Dey, 1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/22-EigenvalueEigenvector.pdf
+#     - file: Theorem
+#       link: assets/materials/theorems/Eigenvalues and Eigenvectors.pdf
+# - title: Least Squares Slide
+#   subtitle: Dey, 1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/21-Least squares.pdf
+#     - file: Theorem
+#       link: assets/materials/theorems/LS.rar
+# - title: Derivation Slide
+#   subtitle: Dey, 1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/20-Tensor Derivatives.pdf
+# - title: Affine Function Slide
+#   subtitle: Dey, 1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/19- Affine Function.pdf
+# - title: Norm Slide
+#   subtitle: Azar, 1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/18-Norm Space.pdf
+# - title: Determinant
+#   subtitle: Azar, 1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/17-Determinant.pdf
+# - title: Matrix Inverse
+#   subtitle: Aban 29, 1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/16-Matrix Inverse.pdf
+# - title: Matrix Rank & Dimension
+#   subtitle: Aban 27, 1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/15-Matrix Rank & Dimension.pdf
+#     - file: Theorems
+#       link: assets/materials/theorems/Rank.pdf
+# - title: Matrix Properties
+#   subtitle: Take Home
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/14-Matrix Properties.pdf
+# - title: Change Of Basis
+#   subtitle: Aban 22, 1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/13-ChangeOfBasis.pdf
+# - title: Linear Transformation
+#   subtitle: Aban 20, 1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/12-Linear Transformation.pdf
+#     - file: Theorems
+#       link: https://drive.google.com/file/d/1UAnnuXoQK2T0VzwnENCOVTJ6WEn-JS26/view?usp=sharing
+# - title: Orthogonality
+#   subtitle: Aban 16, 1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/11-Orthogonality.pdf
+#     - file: Theorems
+#       link: assets/materials/theorems/Orthogonality.pdf
+# - title: Euclidian Norm, Inequalities, Angle
+#   subtitle: Aban 14, 1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/10-Euclidian Norm,Inequalities and Angle.pdf
+# - title: TA Class 2 (HW1 QA)
+#   subtitle: Mehr 26, 1402 by Amirhossein Akbari
+#   assets:
+#     - file: Video
+#       link: https://drive.google.com/file/d/19oPykL499fBCHuxywqxjrznk0ibcYQwu/view?usp=sharing
+# - title: Inner Product Space
+#   subtitle: Aban 09, 1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/9-InnerProductSpace.pdf
+#     - file: Theorems
+#       link: assets/materials/theorems/Inner.pdf
+# - title: Basis and Dimension
+#   subtitle: Aban 02,1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/8-Bases and Dimension.pdf
+#     - file: Theorems
+#       link: assets/materials/theorems/Basis.pdf
+# - title: Independence
+#   subtitle: Mehr 25,1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/7-Independence (Linear and Affine).pdf
+# - title: Echelon forms, Row reduction
+#   subtitle: Mehr 23, 1402
+#   assets:
+#     - file: Slides
+#       link: assets/materials/fall 2023 - slides/6-Echelon Forms and Row Reduction.pdf
+# - title: TA Class 1 (Class Theorems)
+#   subtitle: Mehr 19, 1402 by Ashkan Majidi
+#   assets:
+#     - file: Video
+#       link: https://drive.google.com/file/d/1S4o7W1GADD58pRXuMw41W-gf-J19wawB/view?usp=sharing
+# - title: Elementary row operations, Linear Equations
+#   subtitle: Mehr 18, 1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/5-Elementary Row Operations-Linear Equations1.pdf
+#     - file: Theorems
+#       link: assets/materials/theorems/Elementary Row Operations.pdf
+# #    - file: Powerpoint
+# #      link: assets/materials/fall 2023 - slides/5-Elementary Row Operations-Linear Equations.pptx
+# - title: Subspaces
+#   subtitle: Mehr 16, 1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/4-Subspaces.pdf
+#     - file: Theorems
+#       link: assets/materials/theorems/Subspaces.pdf
+# - title: Flop & Complexity
+#   subtitle: Mehr 16, 1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/3-Flop&Complexity.pdf
+# - title: General Vector Space
+#   subtitle: Mehr 9, 1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/2-VectorSpace.pdf
+# - title: Introduction
+#   subtitle: Mehr 4, 1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/1-Introduction.pdf
+# - title: Course Description
+#   subtitle: Mehr 4, 1402
+#   assets:
+#     - file: Slide
+#       link: assets/materials/fall 2023 - slides/0-Course Description.pdf

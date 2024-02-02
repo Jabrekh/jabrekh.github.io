@@ -1,3 +1,49 @@
+- semester: Fall 2023
+  problems:
+    - title: Vector Space & Linear Equations
+      subtitle: HW1
+      assets:
+        - file: Question Set
+          link: assets/materials/fall 2023 - assignments/HW1.pdf
+        - file: Theoretical Solution
+          link: assets/materials/fall 2023 - assignments/HW1_Sol.pdf
+        - file: Practical Solution
+          link: assets/materials/fall 2023 - assignments/HW1_Sol.py
+    - title: Independence, Basis & Dimension
+      subtitle: HW2
+      assets:
+        - file: Question Set
+          link: assets/materials/fall 2023 - assignments/HW2.pdf
+        - file: Theoretical Solution
+          link: assets/materials/fall 2023 - assignments/HW2_Sol.pdf
+    - title: Rank, Inverse & Determinant
+      subtitle: HW3
+      assets:
+        - file: Question Set
+          link: assets/materials/fall 2023 - assignments/HW3.pdf
+        - file: Theoretical Solution
+          link: assets/materials/fall 2023 - assignments/HW3_sol.pdf
+    - title: Least Squares, Eigen values & Vectors
+      subtitle: HW4
+      assets:
+        - file: Question Set
+          link: assets/materials/fall 2023 - assignments/HW4.pdf
+        - file: Theoretical Solution
+          link: assets/materials/fall 2023 - assignments/HW4_sol.pdf
+    - title: Matrix Factorization
+      subtitle: HW5
+      assets:
+        - file: Theoretical
+          link: assets/materials/fall 2023 - assignments/HW5.pdf
+        - file: Practical
+          link: assets/materials/fall 2023 - assignments/HW5-prac.zip
+        - file: Theoretical Solution
+          link: assets/materials/fall 2023 - assignments/HW5_sol.pdf
+    - title: Project
+      subtitle: 
+      assets:
+        - file: Project Files
+          link: assets/materials/fall 2023 - assignments/Project.zip
 - semester: Spring 2023
   problems:
     - title: HW1

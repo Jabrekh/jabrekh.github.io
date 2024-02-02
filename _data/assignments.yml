@@ -1,103 +1,103 @@
-- title: Vector Space & Linear Equations
-  subtitle: HW1
-  paragraph: >2
-    Theoretical Part (100 Points), Submission Deadline: 1402/08/05, late submission until 1402/08/08<br>
-    Practical Part (100 Points), Submission Deadline: 1402/08/05, late submission until 1402/08/08
-  assets:
-    - file: Question Set
-      link: assets/materials/fall 2023 - assignments/HW1.pdf
-    - file: Theoretical Solution
-      link: assets/materials/fall 2023 - assignments/HW1_Sol.pdf
-    - file: Practical Solution
-      link: assets/materials/fall 2023 - assignments/HW1_Sol.py
-- title: Independence, Basis & Dimension
-  subtitle: HW2
-  paragraph: >2
-    Theoretical Part (100 + 20 Points), Submission Deadline: 1402/08/19, late submission until 1402/08/22<br>
-    Practical Part (100 Points), Submission Deadline: 1402/08/19, late submission until 1402/08/22
-  assets:
-    - file: Question Set
-      link: assets/materials/fall 2023 - assignments/HW2.pdf
-    - file: Theoretical Solution
-      link: assets/materials/fall 2023 - assignments/HW2_Sol.pdf
-- title: Rank, Inverse & Determinant
-  subtitle: HW3
-  paragraph: >2
-    Theoretical Part (100 Points), Submission Deadline: 1402/09/17, late submission until 1402/09/20<br>
-    Practical Part (100 Points), Submission Deadline: 1402/09/17, late submission until 1402/09/20
-  assets:
-    - file: Question Set
-      link: assets/materials/fall 2023 - assignments/HW3.pdf
-    - file: Theoretical Solution
-      link: assets/materials/fall 2023 - assignments/HW3_sol.pdf
-- title: Least Squares, Eigen values & Vectors
-  subtitle: HW4
-  paragraph: >2
-    Theoretical Part (75 + 15 Points), Submission Deadline: 1402/10/8, late submission until 1402/10/11<br>
-    Practical Part (25 Points), Submission Deadline: 1402/10/8, late submission until 1402/10/11
-  assets:
-    - file: Question Set
-      link: assets/materials/fall 2023 - assignments/HW4.pdf
-    - file: Theoretical Solution
-      link: assets/materials/fall 2023 - assignments/HW4_sol.pdf
-- title: Matrix Factorization
-  subtitle: HW5
-  paragraph: >2
-    Theoretical Part (80 Points), Submission Deadline: 1402/10/28, late submission until 1402/11/1<br>
-    Practical Part (20 Points), Submission Hard Deadline: 1402/11/6
-  assets:
-    - file: Theoretical
-      link: assets/materials/fall 2023 - assignments/HW5.pdf
-    - file: Practical
-      link: assets/materials/fall 2023 - assignments/HW5-prac.zip
-    - file: Theoretical Solution
-      link: assets/materials/fall 2023 - assignments/HW5_sol.pdf
-- title: Project
-  subtitle: 
-  paragraph: >2
-    Hard Deadline: 1402/11/10
-  assets:
-    - file: Project Files
-      link: assets/materials/fall 2023 - assignments/Project.zip
-# - title: Independence, Inner Product, and Norm
-#   subtitle: HW2
+# - title: Vector Space & Linear Equations
+#   subtitle: HW1
 #   paragraph: >2
-#     Theoretical Part (140 Points), Submission Deadline: 1402/01/15 23:59:59 with possibility of late submission until 1402/01/20 23:59:59<br>
-#     Practical Part (32 Points), Submission Deadline: 1402/01/17 23:59:59 with possibility of late submission until 1402/01/22 23:59:59
+#     Theoretical Part (100 Points), Submission Deadline: 1402/08/05, late submission until 1402/08/08<br>
+#     Practical Part (100 Points), Submission Deadline: 1402/08/05, late submission until 1402/08/08
 #   assets:
 #     - file: Question Set
-#       link: assets/materials/CE282_1_Spring23_HW2.pdf
-#     - file: Solution
-#       link: assets/materials/CE282_1_Spring23_HW2_Sol.pdf
-# - title: Matrices
+#       link: assets/materials/fall 2023 - assignments/HW1.pdf
+#     - file: Theoretical Solution
+#       link: assets/materials/fall 2023 - assignments/HW1_Sol.pdf
+#     - file: Practical Solution
+#       link: assets/materials/fall 2023 - assignments/HW1_Sol.py
+# - title: Independence, Basis & Dimension
+#   subtitle: HW2
+#   paragraph: >2
+#     Theoretical Part (100 + 20 Points), Submission Deadline: 1402/08/19, late submission until 1402/08/22<br>
+#     Practical Part (100 Points), Submission Deadline: 1402/08/19, late submission until 1402/08/22
+#   assets:
+#     - file: Question Set
+#       link: assets/materials/fall 2023 - assignments/HW2.pdf
+#     - file: Theoretical Solution
+#       link: assets/materials/fall 2023 - assignments/HW2_Sol.pdf
+# - title: Rank, Inverse & Determinant
 #   subtitle: HW3
 #   paragraph: >2
-#     Theoretical Part (140 Points), Submission Deadline: 1402/02/09 23:59:59 with possibility of late submission until 1402/02/14 23:59:59<br>
-#     Practical Part (32 Points), Submission Deadline: 1402/02/11 23:59:59 with possibility of late submission until 1402/02/16 23:59:59
+#     Theoretical Part (100 Points), Submission Deadline: 1402/09/17, late submission until 1402/09/20<br>
+#     Practical Part (100 Points), Submission Deadline: 1402/09/17, late submission until 1402/09/20
 #   assets:
-#     - file: Questions
-#       link: assets/materials/CE282_1_Spring23_HW3.pdf
-# - title: Eigenvalues and Eigenvectors
+#     - file: Question Set
+#       link: assets/materials/fall 2023 - assignments/HW3.pdf
+#     - file: Theoretical Solution
+#       link: assets/materials/fall 2023 - assignments/HW3_sol.pdf
+# - title: Least Squares, Eigen values & Vectors
 #   subtitle: HW4
 #   paragraph: >2
-#     Theoretical Part (140 Points), Submission Deadline: 1402/03/10 23:59:59 with possibility of late submission until 1402/03/15 23:59:59<br>
-#     Practical Part (32 Points), Submission Deadline: 1402/03/12 23:59:59 with possibility of late submission until 1402/03/17 23:59:59
+#     Theoretical Part (75 + 15 Points), Submission Deadline: 1402/10/8, late submission until 1402/10/11<br>
+#     Practical Part (25 Points), Submission Deadline: 1402/10/8, late submission until 1402/10/11
 #   assets:
-#     - file: Questions
-#       link: assets/materials/CE282_1_Spring23_HW4.pdf
-#     - file: Solution
-#       link: assets/materials/CE282_1_Spring23_HW4_SOL.pdf
-# - title: Singular Value, Decomposition, and Derivatives
+#     - file: Question Set
+#       link: assets/materials/fall 2023 - assignments/HW4.pdf
+#     - file: Theoretical Solution
+#       link: assets/materials/fall 2023 - assignments/HW4_sol.pdf
+# - title: Matrix Factorization
 #   subtitle: HW5
 #   paragraph: >2
-#     Theoretical Part (280 Points), Submission Deadline: 1402/04/06 11:59:59, late submission not possible.<br>
-#     Practical Part (32 Points), Submission Deadline: 1402/04/06 11:59:59, late submission not possible.
+#     Theoretical Part (80 Points), Submission Deadline: 1402/10/28, late submission until 1402/11/1<br>
+#     Practical Part (20 Points), Submission Hard Deadline: 1402/11/6
 #   assets:
-#     - file: Questions
-#       link: assets/materials/CE282_1_Spring23_HW5_6.pdf
-# - title: Final Project
-#   paragraph: >1
-#     (200 Points), Submission Deadline: 1402/04/10 23:59:59, extremely not extendable
+#     - file: Theoretical
+#       link: assets/materials/fall 2023 - assignments/HW5.pdf
+#     - file: Practical
+#       link: assets/materials/fall 2023 - assignments/HW5-prac.zip
+#     - file: Theoretical Solution
+#       link: assets/materials/fall 2023 - assignments/HW5_sol.pdf
+# - title: Project
+#   subtitle: 
+#   paragraph: >2
+#     Hard Deadline: 1402/11/10
 #   assets:
-#     - file: Questions
-#       link: assets/materials/CE282_1_Spring23_Project.zip
+#     - file: Project Files
+#       link: assets/materials/fall 2023 - assignments/Project.zip
+# # - title: Independence, Inner Product, and Norm
+# #   subtitle: HW2
+# #   paragraph: >2
+# #     Theoretical Part (140 Points), Submission Deadline: 1402/01/15 23:59:59 with possibility of late submission until 1402/01/20 23:59:59<br>
+# #     Practical Part (32 Points), Submission Deadline: 1402/01/17 23:59:59 with possibility of late submission until 1402/01/22 23:59:59
+# #   assets:
+# #     - file: Question Set
+# #       link: assets/materials/CE282_1_Spring23_HW2.pdf
+# #     - file: Solution
+# #       link: assets/materials/CE282_1_Spring23_HW2_Sol.pdf
+# # - title: Matrices
+# #   subtitle: HW3
+# #   paragraph: >2
+# #     Theoretical Part (140 Points), Submission Deadline: 1402/02/09 23:59:59 with possibility of late submission until 1402/02/14 23:59:59<br>
+# #     Practical Part (32 Points), Submission Deadline: 1402/02/11 23:59:59 with possibility of late submission until 1402/02/16 23:59:59
+# #   assets:
+# #     - file: Questions
+# #       link: assets/materials/CE282_1_Spring23_HW3.pdf
+# # - title: Eigenvalues and Eigenvectors
+# #   subtitle: HW4
+# #   paragraph: >2
+# #     Theoretical Part (140 Points), Submission Deadline: 1402/03/10 23:59:59 with possibility of late submission until 1402/03/15 23:59:59<br>
+# #     Practical Part (32 Points), Submission Deadline: 1402/03/12 23:59:59 with possibility of late submission until 1402/03/17 23:59:59
+# #   assets:
+# #     - file: Questions
+# #       link: assets/materials/CE282_1_Spring23_HW4.pdf
+# #     - file: Solution
+# #       link: assets/materials/CE282_1_Spring23_HW4_SOL.pdf
+# # - title: Singular Value, Decomposition, and Derivatives
+# #   subtitle: HW5
+# #   paragraph: >2
+# #     Theoretical Part (280 Points), Submission Deadline: 1402/04/06 11:59:59, late submission not possible.<br>
+# #     Practical Part (32 Points), Submission Deadline: 1402/04/06 11:59:59, late submission not possible.
+# #   assets:
+# #     - file: Questions
+# #       link: assets/materials/CE282_1_Spring23_HW5_6.pdf
+# # - title: Final Project
+# #   paragraph: >1
+# #     (200 Points), Submission Deadline: 1402/04/10 23:59:59, extremely not extendable
+# #   assets:
+# #     - file: Questions
+# #       link: assets/materials/CE282_1_Spring23_Project.zip
