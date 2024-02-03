@@ -1,7 +1,8 @@
 - name: Naser Kazemi
   subtitle: Lead TA
   email: amirhoseinabedi80@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/kazemi.jpg
+
 - name: Amirhossein Akbari
   subtitle: TA
   email: amirhoseinakbari202@gmail.com
@@ -10,77 +11,62 @@
 - name: Hamidreza Alipour
   subtitle: TA
   email: hmr.alipour@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/alipour.jpg
 
 - name: Mohammad Parsa Bashari
   subtitle: TA
   email: m.p.bashari@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/bashari.jpg
 
 - name: Emad Emam Jome
   subtitle: TA
   email: s.emad.emamjomeh@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/ejome.jpg
 
 - name: Reza Heidari
   subtitle: TA
   email: r4heidari@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/heidari1.jpg
 
 - name: Amirhossein Koochakian
   subtitle: TA
   email: amirkoochk@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/koochakian.jpg
 
 - name: Amirmohammad Kooshky
   subtitle: TA
   email: kooshkya@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/kooshki.jpg
 
 - name: Ashkan Majidi
   subtitle: TA
   email: ashkan.majidi.1382@gmail.com
-  img: assets/images/TAs/generic.jpg
-
-- name: Donya Navabi
-  subtitle: TA
-  email: dnya.nvb@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/majidi.jpg
 
 - name: Romina Nobahari
   subtitle: TA
   email: nobahariromina@gmail.com
-  img: assets/images/TAs/generic.jpg
-
-- name: Amirhossein Razlighi
-  subtitle: TA
-  email: arazlighi@gmail.com
-  img: assets/images/TAs/generic.jpg
-
-- name: Parham Rezaei
-  subtitle: TA
-  email: parhamix@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/nobahari.jpg
 
 - name: Amirali Rostami
   subtitle: TA
   email: amiralirostami99@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/rostami.jpg
 
 - name: Mohammaderfan Salima
   subtitle: TA
   email: erfansalima@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/salima.jpg
 
 - name: Shayan Shabani
   subtitle: TA
   email: shayan.shabani5814@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/shabani.jpg
 
 - name: Ali Shahali
   subtitle: TA
   email: alishahali1382@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/shahali.jpg
 
 - name: Mohammadpayam Taebi
   subtitle: TA
@@ -90,7 +76,7 @@
 - name: Arya Torabi
   subtitle: TA
   email: arya.torabi2054@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/torabi.jpg
 
 - name: Diba Hadi Esfangareh
   subtitle: TA
@@ -190,7 +176,7 @@
 - name: Danial Gharib
   subtitle: TA
   email: danial.mail.gh@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/gharib.jpg
 
 - name: Arsalan Masoudifard
   subtitle: TA
@@ -235,7 +221,7 @@
 - name: Mohammadmahdi Akbar
   subtitle: TA
   email: mahdiakbr81@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/akbar.jpg
 
 - name: Ayeen Poostforooshan
   subtitle: TA
