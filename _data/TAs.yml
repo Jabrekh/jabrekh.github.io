@@ -68,11 +68,6 @@
   email: alishahali1382@gmail.com
   img: assets/images/TAs/shahali.jpg
 
-- name: Mohammadpayam Taebi
-  subtitle: TA
-  email: xpayamtaebix@gmail.com
-  img: assets/images/TAs/generic.jpg
-
 - name: Arya Torabi
   subtitle: TA
   email: arya.torabi2054@gmail.com
@@ -91,17 +86,17 @@
 - name: Atena Chegini
   subtitle: TA
   email: atenachegini8@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/chegini.jpg
 
 - name: Mahdi Alinejad
   subtitle: TA
   email: mahdiali3804@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/alinejad.jpg
 
 - name: Matin Mohammadi
   subtitle: TA
   email: matin.mathematics@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/mohammadi2.jpg
 
 - name: Abolfazl Soltani
   subtitle: TA
@@ -111,7 +106,7 @@
 - name: Soheil Nazari
   subtitle: TA
   email: s.nazari80820@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/nazari.jpg
 
 - name: Sadegh Mohammadian
   subtitle: TA
@@ -136,12 +131,12 @@
 - name: Mazdak Teymourian
   subtitle: TA
   email: mazdak.tey@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/teymoorian.jpg
 
 - name: Ali Sadeghi
   subtitle: TA
   email: a.sadeghiali@yahoo.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/sadeghi.jpg
 
 - name: Mohammadhossein Salimi
   subtitle: TA
@@ -171,7 +166,7 @@
 - name: Asal Meskin
   subtitle: TA
   email: asalmskin82@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/meskin.jpg
 
 - name: Danial Gharib
   subtitle: TA
@@ -191,7 +186,7 @@
 - name: Armin Khosravi
   subtitle: TA
   email: arminkhosravie@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/khosravi.jpg
 
 - name: Radin Shah Daie
   subtitle: TA
@@ -216,7 +211,7 @@
 - name: Amirmohammad Aflatoonian
   subtitle: TA
   email: aflatoonian.amir@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/aflatoonian.jpg
 
 - name: Mohammadmahdi Akbar
   subtitle: TA
@@ -241,7 +236,7 @@
 - name: Shayan Baghayinejad
   subtitle: TA
   email: shbnspecial82@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/baghaie.jpg
 
 - name: Farzam Koohi Ronaghi
   subtitle: TA
@@ -251,9 +246,9 @@
 - name: Matin Arefnia
   subtitle: TA
   email: matin1381arefnia@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/arefnia.jpg
 
 - name: Mohammadmahdi Abedian
   subtitle: TA
   email: mohammadgr1383@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/abedian.jpg
