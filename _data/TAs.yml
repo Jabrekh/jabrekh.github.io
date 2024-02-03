@@ -3,11 +3,6 @@
   email: naserkazemi2002@gmail.com
   img: assets/images/TAs/kazemi.jpg
 
-- name: Amirhossein Akbari
-  subtitle: TA
-  email: amirhoseinakbari202@gmail.com
-  img: assets/images/TAs/akbari.jpg
-
 - name: Hamidreza Alipour
   subtitle: TA
   email: hmr.alipour@gmail.com
@@ -188,10 +183,10 @@
   email: arminkhosravie@gmail.com
   img: assets/images/TAs/khosravi.jpg
 
-- name: Radin Shah Daie
+- name: Radin Shahdaei
   subtitle: TA
   email: radindaei@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/shahdaei.jpg
 
 - name: Kiarash Sheikhi
   subtitle: TA
