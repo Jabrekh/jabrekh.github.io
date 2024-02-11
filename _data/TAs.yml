@@ -106,7 +106,7 @@
 - name: Sadegh Mohammadian
   subtitle: TA
   email: sadegh803211@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/mohammadian.jpg
 
 - name: Mohammadaref Zare-Zade
   subtitle: TA
@@ -116,7 +116,7 @@
 - name: Aryan Ansari
   subtitle: TA
   email: arywnansari@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/ansari.jpg
 
 - name: Mahyar Afshinmehr
   subtitle: TA
@@ -146,12 +146,12 @@
 - name: Danial Hossein-Tabar
   subtitle: TA
   email: dhtdani@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/tossein-tabar.jpg
 
 - name: Milad Hosseini
   subtitle: TA
   email: milad.hosseini532@sharif.edu
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/hosseini.jpg
 
 - name: Nika Ghadery
   subtitle: TA
@@ -171,7 +171,7 @@
 - name: Arsalan Masoudifard
   subtitle: TA
   email: arsalanmasoudifard98@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/masoudifard.jpg
 
 - name: Ali Bakhtiari
   subtitle: TA
@@ -221,7 +221,7 @@
 - name: Sina Azizeddin
   subtitle: TA
   email: sina.azizeddin@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/azizeddin.jpg
 
 - name: Keyhan Hodaei
   subtitle: TA
@@ -236,7 +236,7 @@
 - name: Farzam Koohi Ronaghi
   subtitle: TA
   email: farzamKoohi@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/koohi.jpg
 
 - name: Matin Arefnia
   subtitle: TA
