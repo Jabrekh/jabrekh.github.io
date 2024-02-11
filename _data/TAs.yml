@@ -146,7 +146,7 @@
 - name: Danial Hossein-Tabar
   subtitle: TA
   email: dhtdani@gmail.com
-  img: assets/images/TAs/tossein-tabar.jpg
+  img: assets/images/TAs/hossein-tabar.jpg
 
 - name: Milad Hosseini
   subtitle: TA
@@ -176,7 +176,7 @@
 - name: Ali Bakhtiari
   subtitle: TA
   email: arshiapanahianzzna6@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/bakhtiari.jpg
 
 - name: Armin Khosravi
   subtitle: TA
@@ -193,10 +193,10 @@
   email: kiarash2004sh@gmail.com
   img: assets/images/TAs/generic.jpg
 
-- name: Mana Abbaszade
+- name: Mana Abbaszadeh
   subtitle: TA
   email: abbaszadeh.mana@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/abbaszadeh.jpg
 
 - name: Sina Namazi
   subtitle: TA
@@ -216,7 +216,7 @@
 - name: Ayeen Poostforooshan
   subtitle: TA
   email: ayeen.pf@gmail.com
-  img: assets/images/TAs/generic.jpg
+  img: assets/images/TAs/poostforooshan.jpg
 
 - name: Sina Azizeddin
   subtitle: TA
