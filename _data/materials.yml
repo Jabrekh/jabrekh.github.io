@@ -122,11 +122,11 @@
 #   assets:
 #     - file: Slide
 #       link: assets/materials/fall 2023 - slides/7-Independence (Linear and Affine).pdf
-# - title: Echelon forms, Row reduction
-#   subtitle: Mehr 23, 1402
-#   assets:
-#     - file: Slides
-#       link: assets/materials/fall 2023 - slides/6-Echelon Forms and Row Reduction.pdf
+- title: Echelon forms, Row reduction
+  subtitle: Bahman 24, 1402
+  assets:
+    - file: Slides
+      link: assets/materials/spring 2024 - slides/3-Echelon Forms and Row Reduction.pdf
 # - title: TA Class 1 (Class Theorems)
 #   subtitle: Mehr 19, 1402 by Ashkan Majidi
 #   assets:
