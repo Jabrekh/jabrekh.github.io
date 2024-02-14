@@ -58,10 +58,10 @@
   email: shayan.shabani5814@gmail.com
   img: assets/images/TAs/shabani.jpg
 
-- name: Ali Shahali
-  subtitle: TA
-  email: alishahali1382@gmail.com
-  img: assets/images/TAs/shahali.jpg
+# - name: Ali Shahali
+#   subtitle: TA
+#   email: alishahali1382@gmail.com
+#   img: assets/images/TAs/shahali.jpg
 
 - name: Arya Torabi
   subtitle: TA
@@ -167,6 +167,11 @@
   subtitle: TA
   email: nika.ghadery@gmail.com
   img: assets/images/TAs/generic.jpg
+
+- name: Omid Heydari
+  subtitle: TA
+  email: omidheydari2004@gmail.com
+  img: assets/images/TAs/heydari.jpg
 
 - name: Asal Meskin
   subtitle: TA
