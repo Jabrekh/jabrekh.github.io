@@ -165,8 +165,8 @@
 
 - name: Nika Ghadery
   subtitle: TA
-  email: nika.ghadery@gmail.com
-  img: assets/images/TAs/generic.jpg
+  email: nika_ghaderi@yahoo.com
+  img: assets/images/TAs/ghaderi.jpg
 
 - name: Omid Heydari
   subtitle: TA
@@ -262,3 +262,8 @@
   subtitle: TA
   email: mohammadgr1383@gmail.com
   img: assets/images/TAs/abedian.jpg
+
+- name: Mohammadmahd Farhan Bahrami
+  subtitle: TA
+  email: mmdfarhanbahrami@gmail.com
+  img: assets/images/TAs/bahrami.jpg
