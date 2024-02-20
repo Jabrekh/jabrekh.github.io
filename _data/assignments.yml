@@ -1,11 +1,11 @@
-# - title: Vector Space & Linear Equations
-#   subtitle: HW1
-#   paragraph: >2
-#     Theoretical Part (100 Points), Submission Deadline: 1402/08/05, late submission until 1402/08/08<br>
-#     Practical Part (100 Points), Submission Deadline: 1402/08/05, late submission until 1402/08/08
-#   assets:
-#     - file: Question Set
-#       link: assets/materials/fall 2023 - assignments/HW1.pdf
+- title: Vector Space & Linear Equations
+  subtitle: HW1
+  paragraph: >1
+    Theoretical Part (100 Points), Submission Deadline: 1402/12/11, late submission until 1402/12/14<br>
+# Practical Part (100 Points), Submission Deadline: 1402/08/05, late submission until 1402/08/08
+  assets:
+    - file: Question Set
+      link: assets/materials/spring 2024 - assignments/HW1.pdf
 #     - file: Theoretical Solution
 #       link: assets/materials/fall 2023 - assignments/HW1_Sol.pdf
 #     - file: Practical Solution

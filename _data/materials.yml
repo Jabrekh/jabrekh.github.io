@@ -144,7 +144,7 @@
     - file: Slide
       link: assets/materials/spring 2024 - slides/4-VectorSpace.pdf
     - file: Examples
-      link: assets/materials/Examples/4-VectorSpace-Examples.pdf
+      link: assets/materials/Examples/4.VectorSpace-Examples.pdf
 
 - title: Echelon forms, Row reduction
   subtitle: Bahman 24, 1402
