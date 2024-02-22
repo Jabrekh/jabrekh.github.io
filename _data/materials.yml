@@ -151,6 +151,8 @@
   assets:
     - file: Slide
       link: assets/materials/spring 2024 - slides/3-Echelon Forms and Row Reduction.pdf
+    - file: Theorems
+      link: assets/materials/theorems/Echelon forms, Row reduction.pdf
 
 - title: Elementary row operations, Linear Equations
   subtitle: Bahman 17, 1402
