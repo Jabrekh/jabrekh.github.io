@@ -1,11 +1,3 @@
-- title: Vector Space & Linear Equations
-  subtitle: HW1
-  paragraph: >1
-    100 Points, Submission Deadline: 1402/12/11, late submission until 1402/12/14<br>
-  assets:
-    - file: Question Set
-      link: assets/materials/spring 2024 - assignments/HW1.pdf
-
 - title: Introduction to Numpy and Pandas
   subtitle: PR1
   paragraph: >1
@@ -15,6 +7,14 @@
       link: assets/materials/spring 2024 - assignments/PR1.pdf
     - file: Notebook and assets
       link: assets/materials/spring 2024 - assignments/PR1.zip
+
+- title: Vector Space & Linear Equations
+  subtitle: HW1
+  paragraph: >1
+    100 Points, Submission Deadline: 1402/12/11, late submission until 1402/12/14<br>
+  assets:
+    - file: Question Set
+      link: assets/materials/spring 2024 - assignments/HW1.pdf
 #     - file: Theoretical Solution
 #       link: assets/materials/fall 2023 - assignments/HW1_Sol.pdf
 #     - file: Practical Solution
