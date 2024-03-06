@@ -2,10 +2,19 @@
   subtitle: HW1
   paragraph: >1
     100 Points, Submission Deadline: 1402/12/11, late submission until 1402/12/14<br>
-# Practical Part (100 Points), Submission Deadline: 1402/08/05, late submission until 1402/08/08
   assets:
     - file: Question Set
       link: assets/materials/spring 2024 - assignments/HW1.pdf
+
+- title: Introduction to Numpy and Pandas
+  subtitle: PR1
+  paragraph: >1
+    100 Points, Submission Deadline: 1403/01/31, late submission until 1403/02/03<br>
+  assets:
+    - file: Homework Document
+      link: assets/materials/spring 2024 - assignments/PR1.pdf
+    - file: Notebook and assets
+      link: assets/materials/spring 2024 - assignments/PR1.zip
 #     - file: Theoretical Solution
 #       link: assets/materials/fall 2023 - assignments/HW1_Sol.pdf
 #     - file: Practical Solution
