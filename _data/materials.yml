@@ -130,6 +130,12 @@
 #    - file: Powerpoint
 #      link: assets/materials/fall 2023 - slides/5-Elementary Row Operations-Linear Equations.pptx
 
+- title: Bases And Dimension
+  subtitle: Esfand 23,1402
+  assets:
+    - file: Slide
+      link: assets/materials/spring 2024 - slides/7-Bases and Dimension.pdf
+
 - title: Independence
   subtitle: Esfand 15,1402
   assets:
