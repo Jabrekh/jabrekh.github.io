@@ -129,18 +129,19 @@
 #       link: https://drive.google.com/file/d/1S4o7W1GADD58pRXuMw41W-gf-J19wawB/view?usp=sharing
 #    - file: Powerpoint
 #      link: assets/materials/fall 2023 - slides/5-Elementary Row Operations-Linear Equations.pptx
+
 - title: Euclidian Norm, Inequalities, Angle
-   subtitle: Farvardin, 1403
-   assets:
-     - file: Slide
-       link: assets/materials/spring 2024 - slides/9-Euclidian Norm,Inequalities and Angle.pdf
+  subtitle: Esfand, 1402
+  assets:
+    - file: Slide
+      link: assets/materials/spring 2024 - slides/9-Euclidian Norm,Inequalities and Angle.pdf
+      
 - title: Inner Product Space
-   subtitle: Esfand, 1402
-   assets:
-     - file: Slide
-       link: assets/materials/spring 2024 - slides/8-InnerProductSpace.pdf
-#     - file: Theorems
-#       link: assets/materials/theorems/Inner.pdf
+  subtitle: Esfand, 1402
+  assets:
+    - file: Slide
+      link: assets/materials/spring 2024 - slides/8-InnerProductSpace.pdf
+       
 - title: Bases And Dimension
   subtitle: Esfand 23,1402
   assets:
