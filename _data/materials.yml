@@ -135,18 +135,24 @@
   assets:
     - file: Slide
       link: assets/materials/spring 2024 - slides/9-Euclidian Norm,Inequalities and Angle.pdf
+    - file: Theorems
+      link: assets/materials/theorems/angle.pdf
       
 - title: Inner Product Space
   subtitle: Esfand, 1402
   assets:
     - file: Slide
       link: assets/materials/spring 2024 - slides/8-InnerProductSpace.pdf
+    - file: Theorems
+      link: assets/materials/theorems/Inner.pdf
        
 - title: Bases And Dimension
   subtitle: Esfand 23,1402
   assets:
     - file: Slide
       link: assets/materials/spring 2024 - slides/7-Bases and Dimension.pdf
+    - file: Theorems
+      link: assets/materials/theorems/Basis.pdf
 
 - title: Independence
   subtitle: Esfand 15,1402
