@@ -23,8 +23,8 @@
   assets:
     - file: Question Set
       link: assets/materials/spring 2024 - assignments/HW1.pdf
-#     - file: Theoretical Solution
-#       link: assets/materials/fall 2023 - assignments/HW1_Sol.pdf
+    - file: Theoretical Solution
+      link: assets/materials/spring 2024 - assignments/HW1_Sol.pdf
 #     - file: Practical Solution
 #       link: assets/materials/fall 2023 - assignments/HW1_Sol.py
 # - title: Independence, Basis & Dimension
