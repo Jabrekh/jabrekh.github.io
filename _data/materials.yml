@@ -160,7 +160,7 @@
     - file: Slide
       link: assets/materials/spring 2024 - slides/6-Independence (Linear and Affine).pdf
     - file: Theorems
-    - link: assets/materials/theorems/Independence.pdf
+      link: assets/materials/theorems/Independence.pdf
 
 - title: Subspaces
   subtitle: Esfand 1, 1402
