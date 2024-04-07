@@ -130,8 +130,16 @@
 #    - file: Powerpoint
 #      link: assets/materials/fall 2023 - slides/5-Elementary Row Operations-Linear Equations.pptx
 
+- title: Orthogonality
+  subtitle: Farvardin 19, 1403
+  assets:
+    - file: Slide
+      link: assets/materials/spring 2024 - slides/10-Orthogonality.pdf
+    - file: Theorems
+      link: assets/materials/theorems/Orthogonality.pdf
+
 - title: Euclidian Norm, Inequalities, Angle
-  subtitle: Esfand, 1402
+  subtitle: Farvardin 14, 1403
   assets:
     - file: Slide
       link: assets/materials/spring 2024 - slides/9-Euclidian Norm,Inequalities and Angle.pdf
@@ -139,7 +147,7 @@
       link: assets/materials/theorems/angle.pdf
       
 - title: Inner Product Space
-  subtitle: Esfand, 1402
+  subtitle: Esfand 27, 1402
   assets:
     - file: Slide
       link: assets/materials/spring 2024 - slides/8-InnerProductSpace.pdf
