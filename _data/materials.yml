@@ -74,11 +74,6 @@
 #   assets:
 #     - file: Slide
 #       link: assets/materials/fall 2023 - slides/14-Matrix Properties.pdf
-# - title: Change Of Basis
-#   subtitle: Aban 22, 1402
-#   assets:
-#     - file: Slide
-#       link: assets/materials/fall 2023 - slides/13-ChangeOfBasis.pdf
 # - title: Linear Transformation
 #   subtitle: Aban 20, 1402
 #   assets:
@@ -129,6 +124,12 @@
 #       link: https://drive.google.com/file/d/1S4o7W1GADD58pRXuMw41W-gf-J19wawB/view?usp=sharing
 #    - file: Powerpoint
 #      link: assets/materials/fall 2023 - slides/5-Elementary Row Operations-Linear Equations.pptx
+
+- title: Change Of Basis
+  subtitle: Ordibehesht 2, 1403
+  assets:
+    - file: Slide
+      link: assets/materials/spring 2024 - slides/12-ChangeOfBasis.pdf
 
 - title: Linear Transformation
   subtitle: Farvardin 21, 1403
