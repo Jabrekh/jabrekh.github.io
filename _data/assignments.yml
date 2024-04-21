@@ -1,3 +1,13 @@
+- title: Introduction to Numpy and Pandas
+  subtitle: PR2
+  paragraph: >1
+    100 + 20 Points, Submission Deadline: 1403/02/22, late submission until 1403/02/25<br>
+  assets:
+    - file: Homework Document
+      link: assets/materials/spring 2024 - assignments/PR2.pdf
+    - file: Notebook and assets
+      link: assets/materials/spring 2024 - assignments/PR2.zip
+
 - title: Independence, Dimension & Rank, Inner Product Space
   subtitle: HW3
   paragraph: >1
