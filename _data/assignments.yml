@@ -23,6 +23,8 @@
   assets:
     - file: Question Set
       link: assets/materials/spring 2024 - assignments/HW2.pdf
+    - file: Solution
+      link: assets/materials/spring 2024 - assignments/HW2_Sol.pdf
 
 - title: Introduction to Numpy and Pandas
   subtitle: PR1
