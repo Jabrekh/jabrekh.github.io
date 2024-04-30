@@ -129,13 +129,15 @@
     - file: Slide
       link: assets/materials/spring 2024 - slides/13-Matrix Rank & Dimension.pdf
     - file: Theorems
-      link: assets/materials/theorems/Rank.pdf
+      link: assets/materials/theorems/Rank22.pdf
 
 - title: Change Of Basis
   subtitle: Ordibehesht 2, 1403
   assets:
     - file: Slide
       link: assets/materials/spring 2024 - slides/12-ChangeOfBasis.pdf
+    - file: Video
+      link: https://drive.google.com/file/d/1PgygAzU7VIx8-UvGKiwhGYvJtw3P0bwB/view?usp=sharing
 
 - title: Linear Transformation
   subtitle: Farvardin 21, 1403
@@ -166,8 +168,9 @@
   assets:
     - file: Slide
       link: assets/materials/spring 2024 - slides/8-InnerProductSpace.pdf
-    - file: Theorems
-      link: assets/materials/theorems/Inner.pdf
+    - file: Video
+      link: https://drive.google.com/file/d/1s1xtAVF83szjqJdHvINVG2ZWRTQ8j454/view?usp=sharing
+
        
 - title: Bases And Dimension
   subtitle: Esfand 23,1402
