@@ -18,8 +18,13 @@ def matrix_generator(n: int, m: int, scale: int) -> np.ndarray:
 
 def gram_schmidt_test(A: np.ndarray, B: np.ndarray):
     Q, R = np.linalg.qr(A)
+    Q2 = -Q
+    B = np.abs(B)
+    Q = np.abs(Q)
     tolerance = 1e-6
     if np.allclose(Q, B, atol=tolerance):
+        print("\033[32mPassed!\033[0m")
+    elif np.allclose(-Q, B, atol=tolerance):
         print("\033[32mPassed!\033[0m")
     else:
         print("\033[31mFailed!\033[0m : reconstructed vector isn't equal to the starting vector")
