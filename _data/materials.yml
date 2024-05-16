@@ -110,7 +110,11 @@
 #    - file: Powerpoint
 #      link: assets/materials/fall 2023 - slides/5-Elementary Row Operations-Linear Equations.pptx
 
-
+- title: Norm Space
+  subtitle: Ordibehesht, 1403
+  assets:
+    - file: Slide
+      link: assets/materials/spring 2024 - slides/16-Norm Space.pdf
 - title: Determinant
   subtitle: Ordibehesht 11, 1403
   assets:
