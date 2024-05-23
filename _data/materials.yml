@@ -120,21 +120,25 @@
   assets:
     - file: Slide
       link: assets/materials/spring 2024 - slides/15-Determinant.pdf
+    - file: Theorems
+      link: assets/materials/theorems/Determinante.pdf
 
 - title: Matrix Inverse
   subtitle: Ordibehesht 9, 1403
   assets:
     - file: Slide
       link: assets/materials/spring 2024 - slides/14-Matrix Inverse.pdf
+    - file: Theorems
+      link: assets/materials/theorems/Inverse.pdf
 
 - title: Matrix Rank & Dimension
   subtitle: Ordibehesht 4, 1403
   assets:
     - file: Slide
       link: assets/materials/spring 2024 - slides/13-Matrix Rank & Dimension.pdf
- #   - file: Theorems
- #    link: assets/materials/theorems/Rank.pdf
-
+    - file: Theorems
+      link: assets/materials/theorems/Rank-v2.pdf
+      
 - title: Change Of Basis
   subtitle: Ordibehesht 2, 1403
   assets:
