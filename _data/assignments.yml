@@ -13,8 +13,8 @@
   assets:
     - file: Question Set
       link: assets/materials/spring 2024 - assignments/HW4.pdf
-    # - file: Solution
-      # link: assets/materials/spring 2024 - assignments/HW4_Sol.pdf
+    - file: Solution
+      link: assets/materials/spring 2024 - assignments/HW4_Sol.pdf
 
 
 - title: System of Equations, Gram Schmidt, Basis
