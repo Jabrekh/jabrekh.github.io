@@ -5,6 +5,8 @@
   assets:
     - file: Question Set
       link: assets/materials/spring 2024 - assignments/HW5.pdf
+    - file: Solution
+      link: assets/materials/spring 2024 - assignments/HW5_Sol.pdf
 
 - title: Linear Transformation, Change of Basis, Dimension and Rank, Inverse
   subtitle: HW4
