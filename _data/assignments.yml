@@ -1,4 +1,14 @@
-- title: Determinant and Inverse, Derivative and Least Squares
+-- title: Least Squares, Matrix and Vector Derivative, Norm Space
+  subtitle: HW6
+  paragraph: >1
+    100 Points, Submission Deadline: 1403/03/20, late submission until 1403/03/08<br>
+  assets:
+    - file: Question Set
+      link: assets/materials/spring 2024 - assignments/HW6.pdf
+        #    - file: Solution
+        #      link: assets/materials/spring 2024 - assignments/HW6_Sol.pdf
+
+ title: Determinant and Inverse, Derivative and Least Squares
   subtitle: HW5
   paragraph: >1
     100 Points, Submission Deadline: 1403/03/05, late submission until 1403/03/08<br>
