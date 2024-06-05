@@ -110,6 +110,14 @@
 #    - file: Powerpoint
 #      link: assets/materials/fall 2023 - slides/5-Elementary Row Operations-Linear Equations.pptx
 
+- title: Derivation Slide
+  subtitle: Khordad, 1403
+  assets:
+    - file: Slide
+      link: assets/materials/spring 2024 - slides/17-Tensor Derivatives.pdf
+    - file: Notes
+      link: assets/materials/theorems/matrix_calculus.pdf
+
 - title: Norm Space
   subtitle: Ordibehesht, 1403
   assets:
