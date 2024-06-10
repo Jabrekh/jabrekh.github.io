@@ -1,21 +1,3 @@
-# - title: Quadratic Forms
-#   subtitle: Dey, 1402
-#   assets:
-#     - file: Slide
-#       link: assets/materials/fall 2023 - slides/25-Symmetric Matrices and Quadratic Forms.pdf
-#     - file: Theorem
-#       link: assets/materials/theorems/19-supp.pdf
-#     - file: Video
-#       link: https://drive.google.com/file/d/1wxPDHm0X7oLQ6m5wYvH8MUiVQkPUlJbz/view
-# - title: SVD
-#   subtitle: Dey, 1402
-#   assets:
-#     - file: Slide
-#       link: assets/materials/fall 2023 - slides/24-SVD.pdf
-#     - file: Theorem
-#       link: assets/materials/theorems/20-supp.pdf
-#     - file: Video
-#       link: https://drive.google.com/file/d/128MaSdvYxkZ70Gzuk3htZ1y2m255JlYf/view?usp=drive_link
 # - title: Matrix Factorization
 #   subtitle: Dey, 1402
 #   assets:
@@ -109,6 +91,37 @@
 #       link: https://drive.google.com/file/d/1S4o7W1GADD58pRXuMw41W-gf-J19wawB/view?usp=sharing
 #    - file: Powerpoint
 #      link: assets/materials/fall 2023 - slides/5-Elementary Row Operations-Linear Equations.pptx
+
+
+- title: SVD
+  subtitle: Khordad, 1403
+  assets:
+    - file: Slide
+      link: assets/materials/spring 2024 - slides/21-SVD.pdf
+    - file: Theorem
+      link: assets/materials/theorems/20-supp.pdf
+#     - file: Video
+#       link: https://drive.google.com/file/d/128MaSdvYxkZ70Gzuk3htZ1y2m255JlYf/view?usp=drive_link
+
+
+- title: Quadratic Forms
+  subtitle: Khordad, 1403
+  assets:
+    - file: Slide
+      link: assets/materials/spring 2024 - slides/20-Symmetric Matrices and Quadratic Forms.pdf
+    - file: Theorem
+      link: assets/materials/theorems/19-supp.pdf
+    # - file: Video
+    #   link: https://drive.google.com/file/d/1wxPDHm0X7oLQ6m5wYvH8MUiVQkPUlJbz/view
+
+
+- title: Eigenvalue and Eigenvector
+  subtitle: Khordad, 1403
+  assets:
+    - file: Slide
+      link: assets/materials/spring 2024 - slides/19-EigenVector-EigenValue.pdf
+    - file: Theorem
+      link: assets/materials/theorems/Eigenvalues and Eigenvectors.pdf
 
 - title: Derivation Slide
   subtitle: Khordad, 1403
