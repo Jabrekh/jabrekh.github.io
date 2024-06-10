@@ -123,6 +123,14 @@
     - file: Theorem
       link: assets/materials/theorems/Eigenvalues and Eigenvectors.pdf
 
+- title: Least Squares Slide
+  subtitle: Khordad, 1403
+  assets:
+    - file: Slide
+      link: assets/materials/fall 2023 - slides/18-Least squares.pdf
+    - file: Theorem
+      link: assets/materials/theorems/LS.rar
+
 - title: Derivation Slide
   subtitle: Khordad, 1403
   assets:
