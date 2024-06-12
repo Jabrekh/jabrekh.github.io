@@ -1,10 +1,10 @@
-# - title: Eigenvalues and Eigenvectors, Symmetric Matrices and Quadratic Forms, SVD
-#   subtitle: HW7
-#   paragraph: >1
-#     100 Points, Submission Deadline: 1403/03/30, no late submissions
-#   assets:
-#     - file: Question Set
-#       link: assets/materials/spring 2024 - assignments/HW7.pdf
+- title: Eigenvalues and Eigenvectors, Symmetric Matrices and Quadratic Forms, SVD
+  subtitle: HW7
+  paragraph: >1
+    100 Points, Submission Deadline: 1403/03/30, no late submissions
+  assets:
+    - file: Question Set
+      link: assets/materials/spring 2024 - assignments/HW7.pdf
         #    - file: Solution
         #      link: assets/materials/spring 2024 - assignments/HW7_Sol.pdf
 
