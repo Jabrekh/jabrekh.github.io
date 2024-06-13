@@ -13,10 +13,11 @@
   assets:
     - file: Slide
       link: assets/materials/spring 2024 - slides/18-Least squares.pdf
-    - file: Theorem
-      link: assets/materials/theorems/LS.rar
     - ٰfile: Conclusion
       link: https://drive.google.com/file/d/1bp4pQDsfc_MFv7TfIBAmt_TofHpKsf0R/view?usp=sharing
+    - file: Theorem
+      link: assets/materials/theorems/LS.rar
+
 
 - title: Derivation Slide
   subtitle: Khordad, 1403
