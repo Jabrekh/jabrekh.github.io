@@ -1,105 +1,10 @@
-# - title: Matrix Factorization
-#   subtitle: Dey, 1402
-#   assets:
-#     - file: Slide
-#       link: assets/materials/fall 2023 - slides/23-Matrix Factorization.pdf
-#     - file: Theorem
-#       link: assets/materials/theorems/Matrix Factorization.pdf
-# - title: Eigenvalue and Eigenvector
-#   subtitle: Dey, 1402
-#   assets:
-#     - file: Slide
-#       link: assets/materials/fall 2023 - slides/22-EigenvalueEigenvector.pdf
-#     - file: Theorem
-#       link: assets/materials/theorems/Eigenvalues and Eigenvectors.pdf
-# - title: Least Squares Slide
-#   subtitle: Dey, 1402
-#   assets:
-#     - file: Slide
-#       link: assets/materials/fall 2023 - slides/21-Least squares.pdf
-#     - file: Theorem
-#       link: assets/materials/theorems/LS.rar
-# - title: Derivation Slide
-#   subtitle: Dey, 1402
-#   assets:
-#     - file: Slide
-#       link: assets/materials/fall 2023 - slides/20-Tensor Derivatives.pdf
-# - title: Affine Function Slide
-#   subtitle: Dey, 1402
-#   assets:
-#     - file: Slide
-#       link: assets/materials/fall 2023 - slides/19- Affine Function.pdf
-# - title: Norm Slide
-#   subtitle: Azar, 1402
-#   assets:
-#     - file: Slide
-#       link: assets/materials/fall 2023 - slides/18-Norm Space.pdf
-
-
-# - title: Matrix Properties
-#   subtitle: Take Home
-#   assets:
-#     - file: Slide
-#       link: assets/materials/fall 2023 - slides/14-Matrix Properties.pdf
-# - title: Linear Transformation
-#   subtitle: Aban 20, 1402
-#   assets:
-#     - file: Slide
-#       link: assets/materials/fall 2023 - slides/12-Linear Transformation.pdf
-#     - file: Theorems
-#       link: https://drive.google.com/file/d/1UAnnuXoQK2T0VzwnENCOVTJ6WEn-JS26/view?usp=sharing
-# - title: Orthogonality
-#   subtitle: Aban 16, 1402
-#   assets:
-#     - file: Slide
-#       link: assets/materials/fall 2023 - slides/11-Orthogonality.pdf
-#     - file: Theorems
-#       link: assets/materials/theorems/Orthogonality.pdf
-# - title: Euclidian Norm, Inequalities, Angle
-#   subtitle: Aban 14, 1402
-#   assets:
-#     - file: Slide
-#       link: assets/materials/fall 2023 - slides/10-Euclidian Norm,Inequalities and Angle.pdf
-# - title: TA Class 2 (HW1 QA)
-#   subtitle: Mehr 26, 1402 by Amirhossein Akbari
-#   assets:
-#     - file: Video
-#       link: https://drive.google.com/file/d/19oPykL499fBCHuxywqxjrznk0ibcYQwu/view?usp=sharing
-# - title: Inner Product Space
-#   subtitle: Aban 09, 1402
-#   assets:
-#     - file: Slide
-#       link: assets/materials/fall 2023 - slides/9-InnerProductSpace.pdf
-#     - file: Theorems
-#       link: assets/materials/theorems/Inner.pdf
-# - title: Basis and Dimension
-#   subtitle: Aban 02,1402
-#   assets:
-#     - file: Slide
-#       link: assets/materials/fall 2023 - slides/8-Bases and Dimension.pdf
-#     - file: Theorems
-#       link: assets/materials/theorems/Basis.pdf
-# - title: Independence
-#   subtitle: Mehr 25,1402
-#   assets:
-#     - file: Slide
-#       link: assets/materials/fall 2023 - slides/7-Independence (Linear and Affine).pdf
-# - title: TA Class 1 (Class Theorems)
-#   subtitle: Mehr 19, 1402 by Ashkan Majidi
-#   assets:
-#     - file: Video
-#       link: https://drive.google.com/file/d/1S4o7W1GADD58pRXuMw41W-gf-J19wawB/view?usp=sharing
-#    - file: Powerpoint
-#      link: assets/materials/fall 2023 - slides/5-Elementary Row Operations-Linear Equations.pptx
-
-
 - title: SVD
   subtitle: Khordad, 1403
   assets:
     - file: Slide
       link: assets/materials/spring 2024 - slides/21-SVD.pdf
-    - file: Theorem
-      link: assets/materials/theorems/20-supp.pdf
+#    - file: Theorem
+#      link: assets/materials/theorems/20-supp.pdf
     - file: Video
       link: https://drive.google.com/file/d/128MaSdvYxkZ70Gzuk3htZ1y2m255JlYT/view?usp=drive_link
 
@@ -109,8 +14,8 @@
   assets:
     - file: Slide
       link: assets/materials/spring 2024 - slides/20-Symmetric Matrices and Quadratic Forms.pdf
-    - file: Theorem
-      link: assets/materials/theorems/19-supp.pdf
+#    - file: Theorem
+#      link: assets/materials/theorems/19-supp.pdf
     - file: Video
       link: https://drive.google.com/file/d/1wxPDHm0X7oLQ6m5wYvH8MUiVQkPUlJbT/view
 
@@ -120,8 +25,8 @@
   assets:
     - file: Slide
       link: assets/materials/spring 2024 - slides/19-EigenVector-EigenValue.pdf
-    - file: Theorem
-      link: assets/materials/theorems/Eigenvalues and Eigenvectors.pdf
+#    - file: Theorem
+#      link: assets/materials/theorems/Eigenvalues and Eigenvectors.pdf
     - ٰfile: Slide Video
       link: https://drive.google.com/file/d/1bp4pQDsfc_MFv7TfIBAmt_TofHpKsf0T/view?usp=sharing
 
