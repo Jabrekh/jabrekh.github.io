@@ -100,8 +100,8 @@
       link: assets/materials/spring 2024 - slides/21-SVD.pdf
     - file: Theorem
       link: assets/materials/theorems/20-supp.pdf
-#     - file: Video
-#       link: https://drive.google.com/file/d/128MaSdvYxkZ70Gzuk3htZ1y2m255JlYf/view?usp=drive_link
+    - file: Video
+       link: https://drive.google.com/file/d/128MaSdvYxkZ70Gzuk3htZ1y2m255JlYT/view?usp=drive_link
 
 
 - title: Quadratic Forms
@@ -111,8 +111,8 @@
       link: assets/materials/spring 2024 - slides/20-Symmetric Matrices and Quadratic Forms.pdf
     - file: Theorem
       link: assets/materials/theorems/19-supp.pdf
-    # - file: Video
-    #   link: https://drive.google.com/file/d/1wxPDHm0X7oLQ6m5wYvH8MUiVQkPUlJbz/view
+    - file: Video
+      link: https://drive.google.com/file/d/1wxPDHm0X7oLQ6m5wYvH8MUiVQkPUlJbT/view
 
 
 - title: Eigenvalue and Eigenvector
@@ -122,6 +122,8 @@
       link: assets/materials/spring 2024 - slides/19-EigenVector-EigenValue.pdf
     - file: Theorem
       link: assets/materials/theorems/Eigenvalues and Eigenvectors.pdf
+    - ٰfile: Slide Video
+      link: https://drive.google.com/file/d/1bp4pQDsfc_MFv7TfIBAmt_TofHpKsf0T/view?usp=sharing
 
 - title: Least Squares Slide
   subtitle: Khordad, 1403
@@ -130,6 +132,8 @@
       link: assets/materials/spring 2024 - slides/18-Least squares.pdf
     - file: Theorem
       link: assets/materials/theorems/LS.rar
+    - ٰfile: Conclusion Video
+      link: https://drive.google.com/file/d/1bp4pQDsfc_MFv7TfIBAmt_TofHpKsf0R/view?usp=sharing
 
 - title: Derivation Slide
   subtitle: Khordad, 1403
