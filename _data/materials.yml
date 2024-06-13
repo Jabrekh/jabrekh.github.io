@@ -20,8 +20,8 @@
   assets:
     - file: Slide
       link: assets/materials/spring 2024 - slides/19-EigenVector-EigenValue.pdf
-    - file: [Video](https://drive.google.com/file/d/1bp4pQDsfc_MFv7TfIBAmt_TofHpKsf0T/view?usp=sharing)
-      # link:      
+    - file: Video
+      link: https://drive.google.com/file/d/1bp4pQDsfc_MFv7TfIBAmt_TofHpKsf0R/view  
 
 - title: Least Squares
   subtitle: Khordad, 1403
