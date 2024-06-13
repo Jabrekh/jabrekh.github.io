@@ -13,14 +13,16 @@
       link: assets/materials/spring 2024 - slides/20-Symmetric Matrices and Quadratic Forms.pdf
     - file: Video
       link: https://drive.google.com/file/d/1wxPDHm0X7oLQ6m5wYvH8MUiVQkPUlJbT/view
+
+
 - title: Eigenvalue and Eigenvector
   subtitle: Khordad, 1403
   assets:
     - file: Slide
       link: assets/materials/spring 2024 - slides/19-EigenVector-EigenValue.pdf
-    - file: Video
-      link: https://drive.google.com/file/d/1bp4pQDsfc_MFv7TfIBAmt_TofHpKsf0T/view?usp=sharing
-      
+    - file: [Video](https://drive.google.com/file/d/1bp4pQDsfc_MFv7TfIBAmt_TofHpKsf0T/view?usp=sharing)
+      # link:      
+
 - title: Least Squares
   subtitle: Khordad, 1403
   assets:
