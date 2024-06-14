@@ -3,16 +3,16 @@
   assets:
     - file: Slide
       link: assets/materials/spring 2024 - slides/21-SVD.pdf
-    - file: Video
-      link: https://drive.google.com/file/d/128MaSdvYxkZ70Gzuk3htZ1y2m255JlYT/view?usp=drive_link
+    - file: VideoPart1
+      link:  https://drive.google.com/file/d/128MaSdvYxkZ70Gzuk3htZ1y2m255JlYf/view?usp=drive_link
 
 - title: Quadratic Forms
   subtitle: Khordad, 1403
   assets:
     - file: Slide
       link: assets/materials/spring 2024 - slides/20-Symmetric Matrices and Quadratic Forms.pdf
-    - file: Video
-      link: https://drive.google.com/file/d/1wxPDHm0X7oLQ6m5wYvH8MUiVQkPUlJbT/view
+    - file: VideoPart2
+      link: https://drive.google.com/file/d/1wxPDHm0X7oLQ6m5wYvH8MUiVQkPUlJbz/view
 
 
 - title: Eigenvalue and Eigenvector
@@ -20,8 +20,10 @@
   assets:
     - file: Slide
       link: assets/materials/spring 2024 - slides/19-EigenVector-EigenValue.pdf
-    - file: Video
+    - file: VideoPart1
       link: https://drive.google.com/file/d/1NPncpg_hjLLII_Yb3A-vd8esaqDF5i9n/view
+    - file: VideoPart2
+      link: https://drive.google.com/commingsoon
 
 - title: Least Squares
   subtitle: Khordad, 1403
