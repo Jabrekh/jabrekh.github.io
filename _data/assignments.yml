@@ -1,3 +1,15 @@
+- title: System of Equations, Gram Schmidt, Basis
+  subtitle: PR3
+  paragraph: >1
+    100 Points, Submission Deadline: 1403/04/13, no late submissions<br>
+  assets:
+    - file: Homework Document
+      link: assets/materials/spring 2024 - assignments/PR3.pdf
+    - file: Notebook and assets
+      link: assets/materials/spring 2024 - assignments/PR3.zip
+
+
+
 - title: Eigenvalues and Eigenvectors, Symmetric Matrices and Quadratic Forms, SVD
   subtitle: HW7
   paragraph: >1
